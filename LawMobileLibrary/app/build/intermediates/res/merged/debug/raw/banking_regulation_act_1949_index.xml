@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>Part I : Preliminary.
+Sec. 1 - 5A.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>Part II : Business Of Banking Companies.
+Sec. 6 - 36A.
+</content>
+</part>
+
+<part id="2A" sno="3">
+<content>Part IIA : Control Over Management  
+Sec. 36AA - 36AC.
+</content>
+</part>
+
+<part id="2B" sno="4">
+<content>Part IIB : Prohibition Of Certain Activities In Relation To Banking Companies.
+Sec. 36AD.
+</content>
+</part>
+
+<part id="2C" sno="5">
+<content>Part IIC : Acquisition Of The Undertakings Of Banking Companies In Certain Cases.
+Sec. 36AE - 36AJ.
+</content>
+</part>
+
+<part id="3" sno="6">
+<content>Part III : Suspension Of Business And Winding Up Of Banking Companies.
+Sec. 36B - 45.
+</content>
+</part>
+
+<part id="3A" sno="7">
+<content>Part IIIA : Special Provisions For Speedy Disposal Of Winding Up Proceedings.
+Sec. 45A - 45X.
+</content>
+</part>
+
+<part id="3B" sno="8">
+<content>Part IIIB : Provisions Relating To Certain Operations Of Banking Companies.
+Sec. 45Y - 45ZF.
+</content>
+</part>
+
+<part id="4" sno="9">
+<content>Part  IV : Miscellaneous.
+Sec. 46 - 55A.
+</content>
+</part>
+
+<part id="5" sno="10">
+<content>Part V : Application Of The Act To Co-Operative Banks.
+Sec. 56.
+</content>
+</part>
+</acts>

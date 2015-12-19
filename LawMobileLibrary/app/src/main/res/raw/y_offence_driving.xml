@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<offence sno="1" value="1 : Driving by an under-aged person (Minor driving vehicle)"> 
+<content>S.4r/w S. 181 M.V.A.
+3months or Rs. 500 or both.
+</content>
+</offence>
+
+<offence sno="2" value="2 : Driving a vehicle at an excessive speed."> 
+<content>S. 112r / w S. 183(1) M.V.A.
+Rs.400 for first offence .
+Rs. 1,000 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="3" value="3 : Any person permitting his employee or a person subject to his control to drive a vehicle at an excessive speed."> 
+<content>S. 112r / w S. 183(2) M.V.A.
+Rs. 300 for first offence .
+Rs. 500 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="4" value="4 : Driving or permitting to drive a vehicle carrying excess load."> 
+<content>S. 113(3), 114,115 r/w S.194(1) M.V.A.
+Minimum Rs. 2,000 and additional. Rs. 1,000 per ton of excess load together with charges for off-loading the excess load.
+</content>
+</offence>
+
+<offence sno="5" value="5 : Driver refusing to stop and submit his vehicle to weighing or removing the load prior to weighing ."> 
+<content>S. 114 r/w S.194(2) M.V.A.
+Rs. 3,000.
+</content>
+</offence>
+
+<offence sno="6" value="6 : Any person driving or permitting to drive and vehicle with a left-hand steering control unless equipped with a device of a prescribed nature."> 
+<content>S. 120 r/w S.177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="7" value="7 : Driving dangerously / its Abetment"> 
+<content>S. 184/S.188 M.V.A.
+6 months or Rs. 1,000 for first offence or both.
+2 years or Rs.2,000 for second or subsequent offence within 3 years of previous commission or both.
+</content>
+</offence>
+
+<offence sno="8" value="8 : Driving by a drunken person or by a person under influence or drugs / its Abetment."> 
+<content>S. 185/S.188 M.V.A.
+6 months or Rs. 2,000 for first offence or both.
+2 years or Rs.3,000 for second or subsequent offence within 3 years of previous commission or both.
+</content>
+</offence>
+
+<offence sno="9" value="9 : Driving when mentally or physically unfit to drive / its abetment."> 
+<content>S. 186/S.188 M.V.A.
+Rs. 200 for first offence .
+Rs. 500 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="10" value="10 : Driver's failure to obey traffic sign (Red light jumping, violation of yellow line, changing lane without indication, etc.)."> 
+<content>S. 119 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="11" value="11 : Driver's failure to obey prescribed signals on prescribed occasions."> 
+<content>S. 121 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="12" value="12 : Driver allowing any person to obstruct his control of the vehicle (Sitting at a place so as to hamper driving etc.)."> 
+<content>S. 125 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="13" value="13 : Driver of a two-wheeler / motor cycle carrying more than one person in addition to himself (Triple riding)."> 
+<content>S. 128(1) r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="14" value="14 : Driver and pillion rider failing to wear protective head gear (Helmet)."> 
+<content>S. 129 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="15" value="15 : Any person in-charge of a vehicle or a trailer abandoning or permitting to abandon, etc., in a public place (proper and obstructive parking)."> 
+<content>S. 122, 127 r/w S.177 M.V.A. Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence (owner shall also be liable for towing costs).
+</content>
+</offence>
+
+<offence sno="16" value="16 : Any person in-charge of a vehicle carrying or permitting to carry any person on the running board, etc."> 
+<content>S. 123(1) r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="17" value="17 : Any person in-charge of a vehicle keeping or permitting to keep a vehicle stationary without the required precautions."> 
+<content>S. 126 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="18" value="18 : Failure to take precautions at unguarded Railway level crossing ."> 
+<content>S. 131 r/w S.177 M.V.A..
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="19" value="19 : Failure of driver to stop in certain cases"> 
+<content>S. 132 r/w S.177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="20" value="20 : Using mobile phone while driving a vehicle ."> 
+<content>R. 21(25) of C.M.V.R. r/w S.177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="21" value="21 : Carrying persons in excess of seating capacity in goods carriage."> 
+<content>R. 21(10) of C.M.V.R. r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="22" value="22 : Driving motor vehicle without number plates (Not displaying number plate)."> 
+<content>R. 50 of C.M.V.R. r/w S.177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="23" value="23 : Carrying of explosive and highly inflammable substance in transport vehicle."> 
+<content>S. 177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="24" value="24 : Any person traveling on the running board or on the top or on the bonnet of a motor vehicle."> 
+<content>S. 123(2) r/w S.177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="25" value="25 : Any person keeping a disabled vehicle in any public place so as to cause impediment to the free flow of traffic."> 
+<content>S. 201 M.V.A.
+Rs. 50 per hour besides towing charges.
+</content>
+</offence>
+
+<offence sno="26" value="26 : Any person driving or permitting to drive in any public place a defective motor vehicle or trailer, if such defect results in an accident causing bodily injury or damage to property."> 
+<content>S. 190(1) M.V.A.
+Rs. 250 for first offence.
+Imprisonment of three month or fine upto Rs. 1000 for 2nd offence.
+</content>
+</offence>
+
+<offence sno="27" value="27 : Any person driving or permitting to drive in any public place any motor vehicle which violates the standards prescribed in relation to road safety, control of noise and air pollution.
+(Using vehicle with defective or without silencer, etc.)"> 
+<content>S. 190(2) M.V.A.
+Rs.1,000 for first offence.
+Rs. 2,000 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="28" value="28 : Any person driving or permitting to drive in any public place a motor vehicle which violates the provisions M.V.A. or Rules relating to dangerous or hazardous goods."> 
+<content>S. 190(3) M.V.A.
+One year or Rs. 3,000 for first offence or both.
+3 years or Rs. 5,000 for second or subsequent offence or both.
+</content>
+</offence>
+
+<offence sno="29" value="29 : Racing and trials of speed"> 
+<content>S. 189 M.V.A.
+One month or Rs. 500 or both.
+</content>
+</offence>
+</acts>

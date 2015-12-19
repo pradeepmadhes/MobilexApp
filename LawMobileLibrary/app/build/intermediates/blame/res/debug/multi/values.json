@@ -1,0 +1,2822 @@
+[
+    {
+        "outputFile": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7675,
+                        "endLine": 98,
+                        "endColumn": 19,
+                        "endOffset": 7950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 7962,
+                        "endLine": 111,
+                        "endColumn": 19,
+                        "endOffset": 8523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endLine": 30,
+                    "endColumn": 19,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 8533,
+                        "endLine": 123,
+                        "endColumn": 19,
+                        "endOffset": 9127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1468,
+                    "endLine": 38,
+                    "endColumn": 19,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 9142,
+                        "endLine": 132,
+                        "endColumn": 19,
+                        "endOffset": 9602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endLine": 52,
+                    "endColumn": 19,
+                    "endOffset": 2717
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 9614,
+                        "endLine": 147,
+                        "endColumn": 19,
+                        "endOffset": 10422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2722,
+                    "endLine": 66,
+                    "endColumn": 19,
+                    "endOffset": 3459
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 10434,
+                        "endLine": 162,
+                        "endColumn": 19,
+                        "endOffset": 11186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3464,
+                    "endLine": 70,
+                    "endColumn": 19,
+                    "endOffset": 3615
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 11198,
+                        "endLine": 167,
+                        "endColumn": 19,
+                        "endOffset": 11354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3620,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 4272
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 11366,
+                        "endLine": 181,
+                        "endColumn": 19,
+                        "endOffset": 12032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4277,
+                    "endLine": 90,
+                    "endColumn": 19,
+                    "endOffset": 4600
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 12044,
+                        "endLine": 189,
+                        "endColumn": 19,
+                        "endOffset": 12375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4605,
+                    "endLine": 131,
+                    "endColumn": 19,
+                    "endOffset": 6734
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 13110,
+                        "endLine": 246,
+                        "endColumn": 19,
+                        "endOffset": 15281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6739,
+                    "endLine": 142,
+                    "endColumn": 19,
+                    "endOffset": 7234
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7156,
+                        "endLine": 91,
+                        "endColumn": 19,
+                        "endOffset": 7663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 7239,
+                    "endLine": 146,
+                    "endColumn": 19,
+                    "endOffset": 7372
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 7006,
+                        "endLine": 79,
+                        "endColumn": 19,
+                        "endOffset": 7144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7377,
+                    "endLine": 160,
+                    "endColumn": 19,
+                    "endOffset": 8073
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 12387,
+                        "endLine": 204,
+                        "endColumn": 19,
+                        "endOffset": 13098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8078,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 8340
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 61,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 8345,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 8898
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 8903,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 9487
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 9492,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 9931
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 9936,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 10734
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1948,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 2748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 10739,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 11486
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2758,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 3507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 11491,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 11632
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3517,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 3660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 11637,
+                    "endLine": 242,
+                    "endColumn": 12,
+                    "endOffset": 12296
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3670,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 4331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 12301,
+                    "endLine": 249,
+                    "endColumn": 12,
+                    "endOffset": 12618
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4341,
+                        "endLine": 99,
+                        "endColumn": 12,
+                        "endOffset": 4660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 12623,
+                    "endColumn": 58,
+                    "endOffset": 12677
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 58,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 12682,
+                    "endColumn": 57,
+                    "endOffset": 12735
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 57,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 12740,
+                    "endColumn": 52,
+                    "endOffset": 12788
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 52,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 12793,
+                    "endColumn": 54,
+                    "endOffset": 12843
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 54,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 12848,
+                    "endColumn": 57,
+                    "endOffset": 12901
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 57,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 12906,
+                    "endColumn": 59,
+                    "endOffset": 12961
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 59,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 12966,
+                    "endColumn": 52,
+                    "endOffset": 13014
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 52,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 13019,
+                    "endColumn": 41,
+                    "endOffset": 13056
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 41,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 13061,
+                    "endColumn": 46,
+                    "endOffset": 13103
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 46,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 13108,
+                    "endColumn": 47,
+                    "endOffset": 13151
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 47,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 13156,
+                    "endColumn": 46,
+                    "endOffset": 13198
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1157,
+                        "endColumn": 46,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 13203,
+                    "endColumn": 43,
+                    "endOffset": 13242
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 43,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 13247,
+                    "endColumn": 42,
+                    "endOffset": 13285
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 42,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 13290,
+                    "endColumn": 45,
+                    "endOffset": 13331
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 45,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 13336,
+                    "endColumn": 53,
+                    "endOffset": 13385
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 53,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 13390,
+                    "endColumn": 55,
+                    "endOffset": 13441
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 55,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 13446,
+                    "endColumn": 45,
+                    "endOffset": 13487
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 45,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 13492,
+                    "endColumn": 46,
+                    "endOffset": 13534
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 46,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 13539,
+                    "endColumn": 48,
+                    "endOffset": 13583
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 48,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 13588,
+                    "endColumn": 51,
+                    "endOffset": 13635
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 51,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 13640,
+                    "endColumn": 53,
+                    "endOffset": 13689
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 53,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 13694,
+                    "endColumn": 41,
+                    "endOffset": 13731
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 13736,
+                    "endLine": 278,
+                    "endColumn": 13,
+                    "endOffset": 14591
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4777,
+                        "endLine": 66,
+                        "endColumn": 13,
+                        "endOffset": 5655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 14596,
+                    "endLine": 289,
+                    "endColumn": 13,
+                    "endOffset": 15289
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endLine": 37,
+                        "endColumn": 13,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 15294,
+                    "endLine": 294,
+                    "endColumn": 13,
+                    "endOffset": 15546
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4498,
+                        "endLine": 58,
+                        "endColumn": 13,
+                        "endOffset": 4765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 15551,
+                    "endLine": 299,
+                    "endColumn": 13,
+                    "endOffset": 15763
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2716,
+                        "endLine": 43,
+                        "endColumn": 13,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 15768,
+                    "endLine": 307,
+                    "endColumn": 13,
+                    "endOffset": 17269
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2955,
+                        "endLine": 52,
+                        "endColumn": 13,
+                        "endOffset": 4486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 17274,
+                    "endColumn": 519,
+                    "endOffset": 17789
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1416,
+                        "endColumn": 527,
+                        "endOffset": 1939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 17794,
+                    "endColumn": 46,
+                    "endOffset": 17836
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 48,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 17841,
+                    "endColumn": 58,
+                    "endOffset": 17895
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 60,
+                        "endOffset": 1196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 17900,
+                    "endColumn": 50,
+                    "endOffset": 17946
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1202,
+                        "endColumn": 52,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 17951,
+                    "endColumn": 67,
+                    "endOffset": 18014
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 69,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 18019,
+                    "endColumn": 44,
+                    "endOffset": 18059
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endColumn": 46,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 18064,
+                    "endColumn": 46,
+                    "endOffset": 18106
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 48,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 18111,
+                    "endColumn": 58,
+                    "endOffset": 18165
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5671,
+                        "endColumn": 60,
+                        "endOffset": 5727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 18170,
+                    "endColumn": 67,
+                    "endOffset": 18233
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 69,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 18238,
+                    "endColumn": 458,
+                    "endOffset": 18692
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6449,
+                        "endColumn": 460,
+                        "endOffset": 6905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 18697,
+                    "endColumn": 85,
+                    "endOffset": 18778
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6911,
+                        "endColumn": 87,
+                        "endOffset": 6994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 18783,
+                    "endColumn": 192,
+                    "endOffset": 18971
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6253,
+                        "endColumn": 194,
+                        "endOffset": 6443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 18976,
+                    "endLine": 321,
+                    "endColumn": 284,
+                    "endOffset": 19481
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5739,
+                        "endLine": 71,
+                        "endColumn": 284,
+                        "endOffset": 6247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 19486,
+                    "endColumn": 55,
+                    "endOffset": 19537
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 57,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 19542,
+                    "endColumn": 71,
+                    "endOffset": 19609
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 73,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 19614,
+                    "endColumn": 55,
+                    "endOffset": 19665
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 57,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 19670,
+                    "endColumn": 57,
+                    "endOffset": 19723
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 59,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 19728,
+                    "endColumn": 66,
+                    "endOffset": 19790
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 68,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 19795,
+                    "endColumn": 55,
+                    "endOffset": 19846
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 57,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 19851,
+                    "endColumn": 92,
+                    "endOffset": 19939
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 94,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 19944,
+                    "endColumn": 368,
+                    "endOffset": 20308
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 370,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 20313,
+                    "endColumn": 51,
+                    "endOffset": 20360
+                },
+                "from": {
+                    "file": "C:\\Users\\GAYATHRI\\StudioProjects\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 53,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7675,
+                        "endLine": 98,
+                        "endColumn": 19,
+                        "endOffset": 7950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 7962,
+                        "endLine": 111,
+                        "endColumn": 19,
+                        "endOffset": 8523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endLine": 30,
+                    "endColumn": 19,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 8533,
+                        "endLine": 123,
+                        "endColumn": 19,
+                        "endOffset": 9127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1468,
+                    "endLine": 38,
+                    "endColumn": 19,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 9142,
+                        "endLine": 132,
+                        "endColumn": 19,
+                        "endOffset": 9602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endLine": 52,
+                    "endColumn": 19,
+                    "endOffset": 2717
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 9614,
+                        "endLine": 147,
+                        "endColumn": 19,
+                        "endOffset": 10422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2722,
+                    "endLine": 66,
+                    "endColumn": 19,
+                    "endOffset": 3459
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 10434,
+                        "endLine": 162,
+                        "endColumn": 19,
+                        "endOffset": 11186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3464,
+                    "endLine": 70,
+                    "endColumn": 19,
+                    "endOffset": 3615
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 11198,
+                        "endLine": 167,
+                        "endColumn": 19,
+                        "endOffset": 11354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3620,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 4272
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 11366,
+                        "endLine": 181,
+                        "endColumn": 19,
+                        "endOffset": 12032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4277,
+                    "endLine": 90,
+                    "endColumn": 19,
+                    "endOffset": 4600
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 12044,
+                        "endLine": 189,
+                        "endColumn": 19,
+                        "endOffset": 12375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4605,
+                    "endLine": 131,
+                    "endColumn": 19,
+                    "endOffset": 6734
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 13110,
+                        "endLine": 246,
+                        "endColumn": 19,
+                        "endOffset": 15281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6739,
+                    "endLine": 142,
+                    "endColumn": 19,
+                    "endOffset": 7234
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7156,
+                        "endLine": 91,
+                        "endColumn": 19,
+                        "endOffset": 7663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 7239,
+                    "endLine": 146,
+                    "endColumn": 19,
+                    "endOffset": 7372
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 7006,
+                        "endLine": 79,
+                        "endColumn": 19,
+                        "endOffset": 7144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7377,
+                    "endLine": 160,
+                    "endColumn": 19,
+                    "endOffset": 8073
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 12387,
+                        "endLine": 204,
+                        "endColumn": 19,
+                        "endOffset": 13098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8078,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 8340
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 61,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 8345,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 8898
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 8903,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 9487
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 9492,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 9931
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 9936,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 10734
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1948,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 2748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 10739,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 11486
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2758,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 3507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 11491,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 11632
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3517,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 3660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 11637,
+                    "endLine": 242,
+                    "endColumn": 12,
+                    "endOffset": 12296
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3670,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 4331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 12301,
+                    "endLine": 249,
+                    "endColumn": 12,
+                    "endOffset": 12618
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4341,
+                        "endLine": 99,
+                        "endColumn": 12,
+                        "endOffset": 4660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 12623,
+                    "endColumn": 58,
+                    "endOffset": 12677
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 58,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 12682,
+                    "endColumn": 57,
+                    "endOffset": 12735
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 57,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 12740,
+                    "endColumn": 52,
+                    "endOffset": 12788
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 52,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 12793,
+                    "endColumn": 54,
+                    "endOffset": 12843
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 54,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 12848,
+                    "endColumn": 57,
+                    "endOffset": 12901
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 57,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 12906,
+                    "endColumn": 59,
+                    "endOffset": 12961
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 59,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 12966,
+                    "endColumn": 52,
+                    "endOffset": 13014
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 52,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 13019,
+                    "endColumn": 41,
+                    "endOffset": 13056
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 41,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 13061,
+                    "endColumn": 46,
+                    "endOffset": 13103
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 46,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 13108,
+                    "endColumn": 47,
+                    "endOffset": 13151
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 47,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 13156,
+                    "endColumn": 46,
+                    "endOffset": 13198
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1157,
+                        "endColumn": 46,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 13203,
+                    "endColumn": 43,
+                    "endOffset": 13242
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 43,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 13247,
+                    "endColumn": 42,
+                    "endOffset": 13285
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 42,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 13290,
+                    "endColumn": 45,
+                    "endOffset": 13331
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 45,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 13336,
+                    "endColumn": 53,
+                    "endOffset": 13385
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 53,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 13390,
+                    "endColumn": 55,
+                    "endOffset": 13441
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 55,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 13446,
+                    "endColumn": 45,
+                    "endOffset": 13487
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 45,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 13492,
+                    "endColumn": 46,
+                    "endOffset": 13534
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 46,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 13539,
+                    "endColumn": 48,
+                    "endOffset": 13583
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 48,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 13588,
+                    "endColumn": 51,
+                    "endOffset": 13635
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 51,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 13640,
+                    "endColumn": 53,
+                    "endOffset": 13689
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 53,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 13694,
+                    "endColumn": 41,
+                    "endOffset": 13731
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 13736,
+                    "endLine": 278,
+                    "endColumn": 13,
+                    "endOffset": 14591
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4777,
+                        "endLine": 66,
+                        "endColumn": 13,
+                        "endOffset": 5655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 14596,
+                    "endLine": 289,
+                    "endColumn": 13,
+                    "endOffset": 15289
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endLine": 37,
+                        "endColumn": 13,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 15294,
+                    "endLine": 294,
+                    "endColumn": 13,
+                    "endOffset": 15546
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4498,
+                        "endLine": 58,
+                        "endColumn": 13,
+                        "endOffset": 4765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 15551,
+                    "endLine": 299,
+                    "endColumn": 13,
+                    "endOffset": 15763
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2716,
+                        "endLine": 43,
+                        "endColumn": 13,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 15768,
+                    "endLine": 307,
+                    "endColumn": 13,
+                    "endOffset": 17269
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2955,
+                        "endLine": 52,
+                        "endColumn": 13,
+                        "endOffset": 4486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 17274,
+                    "endColumn": 519,
+                    "endOffset": 17789
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1416,
+                        "endColumn": 527,
+                        "endOffset": 1939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 17794,
+                    "endColumn": 46,
+                    "endOffset": 17836
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 48,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 17841,
+                    "endColumn": 58,
+                    "endOffset": 17895
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 60,
+                        "endOffset": 1196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 17900,
+                    "endColumn": 50,
+                    "endOffset": 17946
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1202,
+                        "endColumn": 52,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 17951,
+                    "endColumn": 67,
+                    "endOffset": 18014
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 69,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 18019,
+                    "endColumn": 44,
+                    "endOffset": 18059
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endColumn": 46,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 18064,
+                    "endColumn": 46,
+                    "endOffset": 18106
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 48,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 18111,
+                    "endColumn": 58,
+                    "endOffset": 18165
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5671,
+                        "endColumn": 60,
+                        "endOffset": 5727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 18170,
+                    "endColumn": 67,
+                    "endOffset": 18233
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 69,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 18238,
+                    "endColumn": 458,
+                    "endOffset": 18692
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6449,
+                        "endColumn": 460,
+                        "endOffset": 6905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 18697,
+                    "endColumn": 85,
+                    "endOffset": 18778
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6911,
+                        "endColumn": 87,
+                        "endOffset": 6994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 18783,
+                    "endColumn": 192,
+                    "endOffset": 18971
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6253,
+                        "endColumn": 194,
+                        "endOffset": 6443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 18976,
+                    "endLine": 321,
+                    "endColumn": 284,
+                    "endOffset": 19481
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5739,
+                        "endLine": 71,
+                        "endColumn": 284,
+                        "endOffset": 6247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 19486,
+                    "endColumn": 55,
+                    "endOffset": 19537
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 57,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 19542,
+                    "endColumn": 71,
+                    "endOffset": 19609
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 73,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 19614,
+                    "endColumn": 55,
+                    "endOffset": 19665
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 57,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 19670,
+                    "endColumn": 57,
+                    "endOffset": 19723
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 59,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 19728,
+                    "endColumn": 66,
+                    "endOffset": 19790
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 68,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 19795,
+                    "endColumn": 55,
+                    "endOffset": 19846
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 57,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 19851,
+                    "endColumn": 92,
+                    "endOffset": 19939
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 94,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 19944,
+                    "endColumn": 368,
+                    "endOffset": 20308
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 370,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 20313,
+                    "endColumn": 51,
+                    "endOffset": 20360
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Studio_WS\\MobilexApp\\LawMobileLibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 53,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    }
+]

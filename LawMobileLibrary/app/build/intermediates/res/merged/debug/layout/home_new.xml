@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative_home_1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:padding="5dp">
+
+    	<Button
+            android:id="@+id/btn_goto"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/action_get_activate" />
+            
+       <Button
+           android:id="@+id/btn_enter_demo"
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"
+           android:layout_weight="0.5"
+           android:text="@string/action_enter_demo" />
+
+        </LinearLayout>   
+  
+    <ScrollView android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+    <LinearLayout
+        android:id="@+id/relative_home_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activate_text"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edt_enter_act"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btn_enter_act"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/action_enter_activate" />
+
+        <TextView
+            android:id="@+id/textview_activation_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activation_title"
+            android:textAppearance="?android:attr/textAppearanceSearchResultTitle"
+            android:padding="5dp" />
+
+        <TextView
+            android:id="@+id/textview_activation_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activation_subtitle"
+            android:textAppearance="?android:attr/textAppearanceSearchResultSubtitle"
+            android:padding="5dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview_activation_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activation_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:padding="5dp" />
+        
+        <TextView
+            android:id="@+id/textview_activation_promote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_vertical"
+            android:text="@string/activation_promote"
+            android:textAppearance="?android:attr/textAppearanceSearchResultSubtitle"
+            android:padding="5dp"
+            android:textStyle="bold" />
+        
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

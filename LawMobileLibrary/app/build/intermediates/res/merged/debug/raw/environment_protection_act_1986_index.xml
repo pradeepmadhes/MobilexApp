@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : GENERAL POWERS OF THE CENTRAL GOVERNMENT.
+Sec. 3 - 6.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUTION.
+Sec. 7 - 17.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV : MISCELLANEOUS.
+Sec. 18 - 26.
+</content>
+</part>
+</acts>

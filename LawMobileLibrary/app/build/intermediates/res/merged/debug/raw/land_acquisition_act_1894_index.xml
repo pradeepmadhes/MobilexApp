@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>PART I : PRELIMINARY.
+Sec. 1 - 3.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>PART II : ACQUISITION.
+Sec. 4 - 17.
+</content>
+</part>
+
+<part id="2A" sno="3">
+<content>
+Preliminary investigation.
+Sec. 4 - 5.
+</content>
+</part>
+<part id="2B" sno="4">
+<content>
+Objections.
+Sec. 5A.
+</content>
+</part>
+
+<part id="2C" sno="5">
+<content>
+Declaration of intended acquisition.
+Sec. 6 - 10.
+</content>
+</part>
+
+<part id="2D" sno="6">
+<content>
+Enquiry into measurements, value and claims, and award by the Collector.
+Sec. 11 - 15A.
+</content>
+</part>
+
+<part id="2E" sno="7">
+<content>
+Taking possession.
+Sec. 16 - 17.
+</content>
+</part>
+
+<part id="3" sno="8">
+<content>PART III : REFERENCE TO COURT AND PROCEDURE THEREON.
+Sec. 18 - 28A.
+</content>
+</part>
+
+<part id="4" sno="9">
+<content>PART IV : APPORTIONMENT OF COMPENSATION.
+Sec. 29 - 30.
+</content>
+</part>
+
+<part id="5" sno="10">
+<content>PART V : PAYMENT.
+Sec. 31 - 34.
+</content>
+</part>
+
+<part id="6" sno="11">
+<content>PART VI : TEMPORARY OCCUPATION OF LAND.
+Sec. 35 - 37.
+</content>
+</part>
+
+<part id="7" sno="12">
+<content>PART VII : ACQUISITION OF LAND FOR COMPANIES.
+Sec. 38 - 44B.
+</content>
+</part>
+
+<part id="8" sno="13">
+<content>PART VIII : MISCELLANEOUS.
+Sec. 45 - 55.
+</content>
+</part>
+</acts>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 4.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : ADOPTION.
+Sec. 5 - 17.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : MAINTENANCE.
+Sec. 18 - 28.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV : REPEALS AND SAVINGS.
+Sec. 29 - 30.
+</content>
+</part>
+</acts>

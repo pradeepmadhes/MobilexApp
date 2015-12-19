@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : EMPLOYEE'S COMPENSATION.
+Sec. 3 - 18A.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : COMMISSIONERS.
+Sec. 19 - 31.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV : RULES.
+Sec. 32 - 36.
+</content>
+</part>
+
+<part id="5" sno="5">
+<content>FIRST SCHEDULE 
+</content>
+</part>
+
+<part id="6" sno="6">
+<content>SECOND SCHEDULE 
+</content>
+</part>
+
+<part id="7" sno="7">
+<content>THIRD SCHEDULE
+</content>
+</part>
+
+<part id="8" sno="8">
+<content>FOURTH SCHEDULE 
+</content>
+</part>
+</acts>

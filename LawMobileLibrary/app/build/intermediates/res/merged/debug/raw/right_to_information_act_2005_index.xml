@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : RIGHT TO INFORMATION AND OBLIGATIONS OF PUBLIC AUTHORITIES.
+Sec. 3 - 11.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : THE CENTRAL INFORMATION COMMISSION.
+Sec. 12 - 14.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV : THE STATE INFORMATION COMMISSION.
+Sec. 15 - 17.
+</content>
+</part>
+
+<part id="5" sno="5">
+<content>CHAPTER V : POWERS AND FUNCTIONS OF THE INFORMATION COMMISSIONSAPPEAL AND PENALTIES.
+Sec. 18 - 20.
+</content>
+</part>
+
+<part id="6" sno="6">
+<content>CHAPTER VI : MISCELLANEOUS.
+Sec. 21 - 31.
+</content>
+</part>
+</acts>

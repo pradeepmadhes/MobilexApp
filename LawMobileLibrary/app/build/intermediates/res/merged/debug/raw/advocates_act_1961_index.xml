@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>Chapter I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>Chapter II : BAR COUNCILS.
+Sec. 3 - 15.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>Chapter III : ADMISSION AND ENROLMENT OF ADVOCATES.
+Sec. 16 - 28.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>Chapter IV : RIGHT - PRACTISE.
+Sec. 29 - 34.
+</content>
+</part>
+
+<part id="5" sno="5">
+<content>Chapter V : CONDUCT OF ADVOCATES.
+Sec. 35 - 44.
+</content>
+</part>
+
+<part id="6" sno="6">
+<content>Chapter VI : MISCELLANEOUS.
+Sec. 45 - 52.
+</content>
+</part>
+
+<part id="7" sno="7">
+<content>Chapter VII : TEMPORARY AND TRANSITIONAL PROVISIONS.
+Sec. 53 - 60.
+</content>
+</part>
+</acts>

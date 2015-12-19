@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : DIGITAL SIGNATURE.
+Sec. 3.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III :  ELECTRONIC GOVERNANCE.
+Sec. 4 - 10.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV :  ATTRIBUTION, ACKNOWLEDGEMENT AND DESPATCH OF ELECTRONIC RECORDS.
+Sec. 11 - 13.
+</content>
+</part>
+
+<part id="5" sno="5">
+<content>CHAPTER V : SECURE ELECTRONIC RECORDS AND SECURE DIGITAL SIGNATURES.
+Sec. 14 - 16.
+</content>
+</part>
+
+<part id="6" sno="6">
+<content>CHAPTER VI :  REGULATION OF CERTIFYING AUTHORITIES.
+Sec. 17 - 34.
+</content>
+</part>
+
+<part id="7" sno="7">
+<content>CHAPTER VII : DIGITAL SIGNATURE CERTIFICATES.
+Sec. 35 - 39.
+</content>
+</part>
+
+<part id="8" sno="8">
+<content>CHAPTER VIII : DUTIES OF SUBSCRIBERS.
+Sec. 40 42.
+</content>
+</part>
+
+<part id="9" sno="9">
+<content>CHAPTER IX :  PENALTIES AND ADJUDICATION.
+Sec. 43 - 47.
+</content>
+</part>
+
+<part id="10" sno="10">
+<content>CHAPTER X : THE CYBER REGULATIONS APPELLATE TRIBUNAL.
+Sec. 48 - 64.
+</content>
+</part>
+
+<part id="11" sno="11">
+<content>CHAPTER XI : OFFENCES.
+Sec. 65 - 78.
+</content>
+</part>
+
+<part id="12" sno="12">
+<content>CHAPTER XII :  NETWORK SERVICE PROVIDERS NOT TO BE LIABLE IN CERTAIN CASES.
+Sec. 79.
+</content>
+</part>
+
+<part id="13" sno="13">
+<content>CHAPTER XIII : MISCELLANEOUS.
+Sec. 80 - 94.
+</content>
+</part>
+</acts>

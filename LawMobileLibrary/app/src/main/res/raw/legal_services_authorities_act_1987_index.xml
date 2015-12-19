@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : THE NATIONAL LEGAL SERVICES AUTHORITY.
+Sec. 3 - 5.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : STATE LEGAL SERVICES AUTHORITY.
+Sec. 6 - 11B.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV : ENTITLEMENT TO LEGAL SERVICES.
+Sec. 12 - 13.
+</content>
+</part>
+
+<part id="5" sno="5">
+<content>CHAPTER V : FINANCE, ACCOUNTS AND AUDIT.
+Sec. 14 - 18.
+</content>
+</part>
+
+<part id="6" sno="6">
+<content>CHAPTER VI : LOK ADALATS.
+Sec. 19 - 22.
+</content>
+</part>
+
+<part id="6A" sno="7">
+<content>CHAPTER VIA : PRE-LITIGATION CONCILIATION AND SETTLEMENT.
+Sec. 22A - 22E.
+</content>
+</part>
+
+<part id="7" sno="8">
+<content>CHAPTER VII : MISCELLANEOUS.
+Sec. 23 - 30.
+</content>
+</part>
+</acts>

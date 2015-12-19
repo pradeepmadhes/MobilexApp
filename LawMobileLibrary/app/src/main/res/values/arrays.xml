@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <array name = "rawBanking">  
+        <item>@raw/banking_regulation_act_1949</item>  
+        <item>@raw/insurance_act_1938</item>  
+        <item>@raw/negotiable_instruments_act_1881</item>  
+        <item>@raw/reserve_bank_of_india_act_1934</item>  
+    </array>
+    
+    <array name = "rawCorporate">  
+        <item>@raw/arbitration_and_conciliation_act_1996</item>  
+        <item>@raw/companies_act_2013</item>  
+        <item>@raw/copyright_act_1957</item>  
+        <item>@raw/designs_act_2000</item>  
+        <item>@raw/indian_contract_act_1872</item>  
+        <item>@raw/partnership_act_1932</item>  
+        <item>@raw/patents_act_1970</item>  
+        <item>@raw/sale_of_goods_act_1930</item>  
+        <item>@raw/specific_relief_act_1963</item>         
+        <item>@raw/trade_marks_act_1999</item> 
+    </array>
+  
+    <array name = "rawCriminal">  
+        <item>@raw/arms_act_1959</item>  
+        <item>@raw/code_of_criminal_procedure_act_1973</item>  
+        <item>@raw/indian_evidence_act_1872</item>  
+        <item>@raw/indian_penal_code_1860</item>  
+        <item>@raw/juvenile_justice_care_and_protection_of_children_act_2000</item>  
+        <item>@raw/motor_vehicles_act_1988</item>  
+        <item>@raw/prevention_of_corruption_act_1988</item>  
+        <item>@raw/prevention_of_food_adulteration_act_1954</item>  
+        <item>@raw/probation_of_offenders_act_1958</item>      
+    </array>    
+   
+    <array name = "rawEnvironment">  
+        <item>@raw/air_prevention_and_control_of_pollution_act_1981</item>  
+        <item>@raw/environment_protection_act_1986</item>  
+        <item>@raw/forest_conservation_act_1980</item>  
+        <item>@raw/public_liability_insurance_act_1991</item>  
+        <item>@raw/water_prevention_and_control_of_pollution_act_1974</item>  
+        <item>@raw/wild_life_protection_act_1972</item>  
+    </array>
+    
+    <array name = "rawFamily">  
+        <item>@raw/dissolution_of_muslim_marriages_act_1939</item>  
+        <item>@raw/divorce_act_1869</item>  
+        <item>@raw/dowry_prohibition_act_1961</item>  
+        <item>@raw/hindu_adoptions_and_maintenance_act_1956</item>  
+        <item>@raw/hindu_marriage_act_1955</item>  
+        <item>@raw/hindu_minority_and_guardianship_act_1956</item>  
+        <item>@raw/hindu_succession_act_1956</item>  
+        <item>@raw/indian_christian_marriage_act_1872</item>  
+        <item>@raw/indian_succession_act_1925</item>         
+        <item>@raw/muslim_women_protection_of_rights_on_divorce_act_1986</item> 
+        <item>@raw/protection_of_women_from_domestic_violence_act_2005</item>         
+        <item>@raw/special_marriage_act_1954</item> 
+    </array>
+    
+    <array name = "rawLabour">  
+        <item>@raw/child_labour_prohibition_and_regulation_act_1986</item>  
+        <item>@raw/employees_compensation_act_1923</item>
+        <item>@raw/employees_state_insurance_act_1948</item>  
+        <item>@raw/factories_act_1948</item>  
+        <item>@raw/industrial_employment_standing_orders_act_1946</item>  
+        <item>@raw/industrial_disputes_act_1947</item>  
+        <item>@raw/maternity_benefit_act_1961</item>  
+        <item>@raw/minimum_wages_act_1948</item>  
+        <item>@raw/payment_of_bonus_act_1965</item>  
+        <item>@raw/payment_of_gratuity_act_1972</item>         
+        <item>@raw/payment_of_wages_act_1936</item> 
+        <item>@raw/trade_union_act_1926</item>       
+    </array>
+    
+    <array name = "rawLegal">  
+        <item>@raw/advocates_act_1961</item>  
+        <item>@raw/contempt_of_courts_act_1971</item>  
+    </array>
+    
+    <array name = "rawMiscellaneous">  
+        <item>@raw/civil_procedure_code_1908</item>  
+        <item>@raw/constitution_of_india</item>  
+        <item>@raw/consumer_protection_act_1986</item>  
+        <item>@raw/general_clauses_act_1897</item>  
+        <item>@raw/indian_stamp_act_1899</item>  
+        <item>@raw/information_technology_act_2000</item>  
+        <item>@raw/legal_services_authorities_act_1987</item>  
+        <item>@raw/limitation_act_1963</item>  
+        <item>@raw/protection_of_human_rights_act_1993</item>         
+        <item>@raw/registration_act_1908</item> 
+        <item>@raw/right_to_information_act_2005</item> 
+    </array>
+    
+    <array name = "rawProperty">  
+        <item>@raw/benami_transactions_prohbition_act_1988</item>  
+        <item>@raw/indian_easements_act_1882</item>  
+        <item>@raw/land_acquisition_act_1894</item>  
+        <item>@raw/transfer_of_property_act_1882</item>  
+        <item>@raw/wakf_act_1995</item>  
+    </array>
+</resources>

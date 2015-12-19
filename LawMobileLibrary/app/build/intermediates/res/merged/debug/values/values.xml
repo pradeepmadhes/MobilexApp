@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actBanking">  
+        <item>1.Banking Regulation Act, 1949</item>  
+        <item>2.Insurance Act, 1938</item>  
+        <item>3.Negotiable Instruments Act, 1881</item>  
+        <item>4.Reserve Bank of India Act, 1934</item>  
+    </string-array>
+    <string-array name="actCorporate">  
+        <item>1.Arbitration and Conciliation Act, 1996</item>  
+        <item>2.Companies Act, 2013</item>  
+        <item>3.Copyright Act, 1957</item>  
+        <item>4.Designs Act, 2000</item>  
+        <item>5.Indian Contract Act, 1872</item>  
+        <item>6.Partnership Act, 1932</item>  
+        <item>7.Patents Act, 1970</item>  
+        <item>8.Sale of Goods Act, 1930</item>  
+        <item>9.Specific Relief Act, 1963</item>         
+        <item>10.Trade Marks Act, 1999</item> 
+    </string-array>
+    <string-array name="actCriminal">  
+        <item>1.Arms Act, 1959</item>  
+        <item>2.Code of Criminal Procedure Act, 1973</item>  
+        <item>3.Indian Evidence Act, 1872</item>  
+        <item>4.Indian Penal Code, 1860</item>  
+        <item>5.Juvenile Justice (Care And Protection of Children) Act, 2000</item>  
+        <item>6.Motor Vehicles Act, 1988</item>  
+        <item>7.Prevention of Corruption Act, 1988</item>  
+        <item>8.Prevention of Food Adulteration Act, 1954</item>  
+        <item>9.Probation of Offenders Act, 1958</item>      
+    </string-array>
+    <string-array name="actEnvironment">  
+        <item>1.Air (Prevention and Control of Pollution) Act, 1981</item>  
+        <item>2.Environment (Protection) Act, 1986</item>  
+        <item>3.Forest (Conservation) Act, 1980</item>  
+        <item>4.Public Liability Insurance Act, 1991</item>  
+        <item>5.Water (Prevention and Control of Pollution) Act, 1974</item>  
+        <item>6.Wild Life (Protection) Act, 1972</item>  
+    </string-array>
+    <string-array name="actFamily">  
+        <item>1.Dissolution of Muslim Marriages Act, 1939</item>  
+        <item>2.Divorce Act, 1869</item>  
+        <item>3.Dowry Prohibition Act, 1961</item>  
+        <item>4.Hindu Adoptions and Maintenance Act, 1956</item>  
+        <item>5.Hindu Marriage Act, 1955</item>  
+        <item>6.Hindu Minority And Guardianship Act, 1956</item>  
+        <item>7.Hindu Succession Act, 1956</item>  
+        <item>8.Indian Christian Marriage Act, 1872</item>  
+        <item>9.Indian Succession Act, 1925</item>         
+        <item>10.Muslim Women (Protection of Rights on Divorce) Act, 1986</item> 
+        <item>11.Protection Of Women From Domestic Violence Act, 2005</item>         
+        <item>12.Special Marriage Act, 1954</item> 
+    </string-array>
+    <string-array name="actLabour">  
+        <item>1.Child Labour (Prohibition and Regulation) Act, 1986</item>  
+        <item>2.Employees Compensation Act, 1923</item>
+        <item>3.Employees State Insurance Act, 1948</item>  
+        <item>4.Factories Act, 1948</item>  
+        <item>5.Industrial Employment (Standing Orders) Act, 1946</item>  
+        <item>6.Industrial Disputes Act, 1947</item>  
+        <item>7.Maternity Benefit Act,1961</item>  
+        <item>8.Minimum Wages Act, 1948</item>  
+        <item>9.Payment of Bonus Act, 1965</item>  
+        <item>10.Payment of Gratuity Act, 1972</item>         
+        <item>11.Payment of Wages Act, 1936</item> 
+        <item>12.Trade Union Act, 1926</item> 
+    </string-array>
+    <string-array name="actLegal">  
+        <item>1.Advocates Act, 1961</item>  
+        <item>2.Contempt of Courts Act, 1971</item>  
+    </string-array>
+    <string-array name="actMiscellaneous">  
+        <item>1.Civil Procedure Code, 1908</item>  
+        <item>2.Constitution of India</item>  
+        <item>3.Consumer Protection Act, 1986</item>  
+        <item>4.General Clauses Act, 1897</item>  
+        <item>5.Indian Stamp Act, 1899</item>  
+        <item>6.Information Technology Act, 2000</item>  
+        <item>7.Legal Services Authorities Act, 1987</item>  
+        <item>8.Limitation Act, 1963</item>  
+        <item>9.Protection of Human Rights Act, 1993</item>         
+        <item>10.Registration Act, 1908</item> 
+        <item>11.Right to Information Act, 2005</item> 
+    </string-array>
+    <string-array name="actProperty">  
+        <item>1.Benami Transactions (Prohbition) Act, 1988</item>  
+        <item>2.Indian Easements Act, 1882</item>  
+        <item>3.Land Acquisition Act, 1894</item>  
+        <item>4.Transfer of Property Act, 1882</item>  
+        <item>5.Wakf Act, 1995</item>  
+    </string-array>
+    <string-array name="chapterIndex">  
+        <item>Negotiable Instruments Act, 1881</item>  
+        <item>Reserve Bank of India Act, 1934</item>  
+        <item>Copyright Act, 1957</item>  
+        <item>Designs Act, 2000</item>  
+        <item>Indian Contract Act, 1872</item>  
+        <item>Partnership Act, 1932</item>  
+        <item>Patents Act, 1970</item>  
+        <item>Sale of Goods Act, 1930</item>  
+        <item>Trade Marks Act, 1999</item> 
+        <item>Arms Act, 1959</item>  
+        <item>Code of Criminal Procedure Act, 1973</item> 
+        <item>Indian Penal Code, 1860</item>  
+        <item>Juvenile Justice (Care And Protection of Children) Act, 2000</item>  
+        <item>Motor Vehicles Act, 1988</item>  
+        <item>Prevention of Corruption Act, 1988</item>  
+        <item>Air (Prevention and Control of Pollution) Act, 1981</item>  
+        <item>Environment (Protection) Act, 1986</item>           
+        <item>Water (Prevention and Control of Pollution) Act, 1974</item>  
+        <item>Wild Life (Protection) Act, 1972</item> 
+        <item>Indian Easements Act, 1882</item>  
+        <item>Transfer of Property Act, 1882</item>  
+        <item>Wakf Act, 1995</item>  
+        <item>Hindu Adoptions and Maintenance Act, 1956</item>  
+        <item>Hindu Marriage Act, 1955</item>   
+        <item>Hindu Succession Act, 1956</item>   
+        <item>Divorce Act, 1869</item>  
+        <item>Special Marriage Act, 1954</item> 
+        <item>Employees State Insurance Act, 1948</item>  
+        <item>Factories Act, 1948</item>   
+        <item>Industrial Disputes Act, 1947</item>  
+        <item>Trade Union Act, 1926</item>         
+        <item>Employees Compensation Act, 1923</item> 
+        <item>Advocates Act, 1961</item>  
+        <item>Consumer Protection Act, 1986</item>  
+        <item>Indian Stamp Act, 1899</item>  
+        <item>Information Technology Act, 2000</item>  
+        <item>Legal Services Authorities Act, 1987</item> 
+        <item>Right to Information Act, 2005</item> 
+        <item>Protection Of Women From Domestic Violence Act, 2005</item>
+    </string-array>
+    <string-array name="mainTopics">  
+        <item>I.Banking &amp; Insurance Laws</item>  
+        <item>II.Corporate &amp; Intellectual Property Laws</item>  
+        <item>III.Criminal &amp; Motor Accident Laws</item>  
+        <item>IV.Environment Law</item>  
+        <item>V.Family Law</item>  
+        <item>VI.Labour Law</item>  
+        <item>VII.Legal &amp; Professional Laws</item>  
+        <item>VIII.Miscellaneous Law</item>  
+        <item>IX.Property Law</item> 
+    </string-array>
+    <string-array name="menuSearch">  
+        <item>Search by Section</item>  
+        <item>Search by Word</item>  
+    </string-array>
+    <string-array name="partIndex">  
+        <item>Banking Regulation Act, 1949</item>  
+        <item>Insurance Act, 1938</item>  
+        <item>Arbitration and Conciliation Act, 1996</item>         
+        <item>Specific Relief Act, 1963</item>               
+        <item>Indian Evidence Act, 1872</item>    
+        <item>Land Acquisition Act, 1894</item> 
+        <item>Indian Christian Marriage Act, 1872</item> 
+        <item>Child Labour (Prohibition and Regulation) Act, 1986</item>  
+        <item>Civil Procedure Code, 1908</item>  
+        <item>Constitution of India</item>  
+        <item>Limitation Act, 1963</item>  
+        <item>Registration Act, 1908</item> 
+    </string-array>
+    <array name="rawBanking">  
+        <item>@raw/banking_regulation_act_1949</item>  
+        <item>@raw/insurance_act_1938</item>  
+        <item>@raw/negotiable_instruments_act_1881</item>  
+        <item>@raw/reserve_bank_of_india_act_1934</item>  
+    </array>
+    <array name="rawCorporate">  
+        <item>@raw/arbitration_and_conciliation_act_1996</item>  
+        <item>@raw/companies_act_2013</item>  
+        <item>@raw/copyright_act_1957</item>  
+        <item>@raw/designs_act_2000</item>  
+        <item>@raw/indian_contract_act_1872</item>  
+        <item>@raw/partnership_act_1932</item>  
+        <item>@raw/patents_act_1970</item>  
+        <item>@raw/sale_of_goods_act_1930</item>  
+        <item>@raw/specific_relief_act_1963</item>         
+        <item>@raw/trade_marks_act_1999</item> 
+    </array>
+    <array name="rawCriminal">  
+        <item>@raw/arms_act_1959</item>  
+        <item>@raw/code_of_criminal_procedure_act_1973</item>  
+        <item>@raw/indian_evidence_act_1872</item>  
+        <item>@raw/indian_penal_code_1860</item>  
+        <item>@raw/juvenile_justice_care_and_protection_of_children_act_2000</item>  
+        <item>@raw/motor_vehicles_act_1988</item>  
+        <item>@raw/prevention_of_corruption_act_1988</item>  
+        <item>@raw/prevention_of_food_adulteration_act_1954</item>  
+        <item>@raw/probation_of_offenders_act_1958</item>      
+    </array>
+    <array name="rawEnvironment">  
+        <item>@raw/air_prevention_and_control_of_pollution_act_1981</item>  
+        <item>@raw/environment_protection_act_1986</item>  
+        <item>@raw/forest_conservation_act_1980</item>  
+        <item>@raw/public_liability_insurance_act_1991</item>  
+        <item>@raw/water_prevention_and_control_of_pollution_act_1974</item>  
+        <item>@raw/wild_life_protection_act_1972</item>  
+    </array>
+    <array name="rawFamily">  
+        <item>@raw/dissolution_of_muslim_marriages_act_1939</item>  
+        <item>@raw/divorce_act_1869</item>  
+        <item>@raw/dowry_prohibition_act_1961</item>  
+        <item>@raw/hindu_adoptions_and_maintenance_act_1956</item>  
+        <item>@raw/hindu_marriage_act_1955</item>  
+        <item>@raw/hindu_minority_and_guardianship_act_1956</item>  
+        <item>@raw/hindu_succession_act_1956</item>  
+        <item>@raw/indian_christian_marriage_act_1872</item>  
+        <item>@raw/indian_succession_act_1925</item>         
+        <item>@raw/muslim_women_protection_of_rights_on_divorce_act_1986</item> 
+        <item>@raw/protection_of_women_from_domestic_violence_act_2005</item>         
+        <item>@raw/special_marriage_act_1954</item> 
+    </array>
+    <array name="rawLabour">  
+        <item>@raw/child_labour_prohibition_and_regulation_act_1986</item>  
+        <item>@raw/employees_compensation_act_1923</item>
+        <item>@raw/employees_state_insurance_act_1948</item>  
+        <item>@raw/factories_act_1948</item>  
+        <item>@raw/industrial_employment_standing_orders_act_1946</item>  
+        <item>@raw/industrial_disputes_act_1947</item>  
+        <item>@raw/maternity_benefit_act_1961</item>  
+        <item>@raw/minimum_wages_act_1948</item>  
+        <item>@raw/payment_of_bonus_act_1965</item>  
+        <item>@raw/payment_of_gratuity_act_1972</item>         
+        <item>@raw/payment_of_wages_act_1936</item> 
+        <item>@raw/trade_union_act_1926</item>       
+    </array>
+    <array name="rawLegal">  
+        <item>@raw/advocates_act_1961</item>  
+        <item>@raw/contempt_of_courts_act_1971</item>  
+    </array>
+    <array name="rawMiscellaneous">  
+        <item>@raw/civil_procedure_code_1908</item>  
+        <item>@raw/constitution_of_india</item>  
+        <item>@raw/consumer_protection_act_1986</item>  
+        <item>@raw/general_clauses_act_1897</item>  
+        <item>@raw/indian_stamp_act_1899</item>  
+        <item>@raw/information_technology_act_2000</item>  
+        <item>@raw/legal_services_authorities_act_1987</item>  
+        <item>@raw/limitation_act_1963</item>  
+        <item>@raw/protection_of_human_rights_act_1993</item>         
+        <item>@raw/registration_act_1908</item> 
+        <item>@raw/right_to_information_act_2005</item> 
+    </array>
+    <array name="rawProperty">  
+        <item>@raw/benami_transactions_prohbition_act_1988</item>  
+        <item>@raw/indian_easements_act_1882</item>  
+        <item>@raw/land_acquisition_act_1894</item>  
+        <item>@raw/transfer_of_property_act_1882</item>  
+        <item>@raw/wakf_act_1995</item>  
+    </array>
+    <color name="background_listview_even">#f0f0f0</color>
+    <color name="background_listview_odd">#ffffff</color>
+    <color name="background_primary">#ffffff</color>
+    <color name="background_secondary">#ffffff</color>
+    <color name="background_tab_selected">#004a87</color>
+    <color name="background_tab_unselected">#2e75b0</color>
+    <color name="background_top_bar">#002277</color>
+    <color name="black">#ff000000</color>
+    <color name="button_focus">#195d95</color>
+    <color name="button_normal">#002277</color>
+    <color name="button_press">#FA58F4</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="dim_gray">#696969</color>
+    <color name="font_button">#ffffff</color>
+    <color name="font_dialog_primary">#ffffff</color>
+    <color name="font_dialog_secondary">#000000</color>
+    <color name="font_header">#002277</color>
+    <color name="font_primary">#002277</color>
+    <color name="font_secondary">#000000</color>
+    <color name="font_tab_selected">#ffffff</color>
+    <color name="font_tab_unselected">#231f1f</color>
+    <color name="white">#ffffffff</color>
+    <string name="about_activate">Procedure for activating the Application:&lt;br>
+                                    Click \'Activate\' and then \'Get Activation Code\' options.&lt;br>
+                                    Click \'yes\' to allow the application to send text message, it sends request for activation code from your mobile to the App. provider.&lt;br>
+                                    Then our Marketing representative or Customer Care Officer will Contact you to provide details about App. charge and mode of payment for the Activation code.&lt;br>
+                                    Once you paid the fee for the Activation code, we will send the Code by SMS or email within 24 hrs.&lt;br>
+                                    Enter the provided Code in Enter activation code option and press Activate. Happy access all Acts.
+    </string>
+    <string name="about_author">Concept by Madras High Court Advocates:&lt;br>&lt;br>          						 
+								  P.M.Shahul Hameed M.A., B.L. &lt;br>  
+								  &lt;img src=\"photos/shahul.jpg\"/> &lt;br>&lt;br>   
+								  K.Sivasubramanian M.A., B.L., &lt;br>
+        						  &lt;img src=\'photos/siva.jpg\'/> &lt;br>&lt;br>  
+        						  You are most welcome to provide us with your feedback.&lt;br>&lt;br>                                  
+                                  Our mail id: mobilexforyou@gmail.com&lt;br>&lt;br> 
+                                  Website: www.mobilex.co.in.&lt;br>&lt;br>  
+                                  
+                                  
+    </string>
+    <string name="about_contact">contact us :&lt;br>
+                                   Website: www.mobilex.co.in&lt;br>
+                                   Email: mobilexforyou@gmail.com &lt;br>
+                                   Voice: +91 
+    </string>
+    <string name="about_developer">Mobilex&lt;br>&lt;br>
+                                     Website:&lt;br>
+                                     www.mobilex.co.in
+                                     
+    </string>
+    <string name="about_licence">This software product is licenced to you on \"As-is-where-is\" basis, subject to the terms and conditions of this Agreement for your personal use only.&lt;br>
+                                   1.You should not modify or create any derivative works of this product.&lt;br>
+                                   2.You should not decompile, disassemble, reverse engineer or otherwise attempt to derive the source code of this product.&lt;br>
+                                   3.You should not sell, rent, lease and sublicence the product without prior written permission of the Author.&lt;br>
+                                   4.This product is being sold on the condition and understanding that the information which contains are merely for guidance and reference and should not be taken as having the authority of, or being binding in any way on the Author.&lt;br>
+                                   5.While releasing this software product every effort has been taken in avoiding any errors, omissions or insertions. This is to be stated that the Author shall not be made liable for any erroneous action or inaction creeping in despite our best efforts.&lt;br>
+                                   6.It is suggested that to avoid any doubt the user should cross-check all the facts, law and contents of the Application with original Government Publication or notification. All disputes are subject to the jurisdiction of competent courts in Chennai only.&lt;br>
+    </string>
+    <string name="about_product">Law Mobile Library is an innovative new generation mobile phone Law Application to access certain Indian Bare Acts in mobile phone. This Software contains about 71 important Central Acts which can be referred in seconds without any network connection. This Software is intended for a quick and easy reference of Indian Acts. It will be a ready reconnoitre to the Judicial Officers, Advocates and other Legal Professionals.&lt;br>&lt;br>For more details visit www.mobilex.co.in </string>
+    <string name="action_about">About</string>
+    <string name="action_enter_activate">Activate</string>
+    <string name="action_enter_demo">Demo</string>
+    <string name="action_get_activate">Get Activation Code</string>
+    <string name="action_help">Help</string>
+    <string name="action_share">Share</string>
+    <string name="activate_btn_name">Get Activate</string>
+    <string name="activate_text">Enter The Activation Code</string>
+    <string name="activation_content">• Click Get Activation Code option.\n\n• Click \'OK\' to allow the application to send text message, it sends request for activation code from your mobile to the App. provider.\n\n• Then our Marketing representative or Customer Care Officer will Contact you and send the Activation code by SMS or email.\n\n• Enter the provided Code in Enter activation code option and press Activate. Happy access all Acts.\n\n</string>
+    <string name="activation_promote">BY ADVOCATES; TO THE LEGAL FRATERNITY.</string>
+    <string name="activation_subtitle"> If you are interested and willing to pay the Activation code charge Rs.400 please follow the procedure given below to activate the application:</string>
+    <string name="activation_title">In this free version, you can access Indian Penal Code,1860 entire Bare Act absolutely free by clicking Demo > III.Criminal &amp; Motor Accident Laws heading > 4.Indian Penal Code,1860.\n 
+For the remaining 70 Acts pls buy and enter the Activation code to access all the contents. The activation code cost Rs.400. Its a one time charge to access all the 71 Acts. \nFor more details you can contact our customer care executive @ +91 8754542929 from 10 a.m to 6 p.m.</string>
+    <string name="app_name">Law Mobile Library</string>
+    <string name="customer_care_email">mobilexforyou@gmail.com</string>
+    <string name="customer_care_no">8754542930</string>
+    <string name="customer_care_no_1">8754542929</string>
+    <string name="help_Sub">Request customer care support</string>
+    <string name="product_owner_no">8754542929</string>
+    <string name="share_Sub">Indian Law Mobile Library : Indian Bare Acts in mobile</string>
+    <string name="share_msg">Indian Law Mobile Library is an innovative new generation mobile application to access Indian Bare Acts in mobile on the go without network connection. \nYou can avail this app in  http://market.android.com/details?id=com.mobilex.lawmobilelibrary.activities\nFor more details call +91 8754542929 from 10 a.m to 6 p.m. \nThank you.</string>
+    <string name="shared_pref">SecNsecPref</string>
+</resources>

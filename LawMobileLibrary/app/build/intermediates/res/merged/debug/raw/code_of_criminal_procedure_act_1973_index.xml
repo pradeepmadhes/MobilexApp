@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<acts>
+<part id="1" sno="1">
+<content>Chapter I : PRELIMINARY.
+Sec. 1 - 5.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>Chapter II : CONSTITUTION OF CRIMINAL COURTS AND OFFICES.
+Sec. 6 - 25A.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>Chapter III : POWER OF COURTS
+Sec. 26 - 35.
+</content>
+</part>
+
+<part id="4A" sno="4">
+<content>Chapter IVA : POWERS OF SUPERIOR OFFICERS OF POLICE.
+Sec. 36.
+</content>
+</part>
+
+<part id="4B" sno="5">
+<content>Chapter IVB : AID TO THE MAGISTRATES AND THE POLICE.
+Sec. 37 - 40.
+</content>
+</part>
+
+<part id="5" sno="6">
+<content>Chapter V : ARREST OF PERSONS
+Sec. 41 - 60A.
+</content>
+</part>
+
+<part id="6" sno="7">
+<content>Chapter VI : PROCESSES TO COMPEL APPEARANCE.
+Sec. 61 - 90.
+</content>
+</part>
+
+<part id="6A" sno="8">
+<content>
+A. Summons.
+Sec. 61 - 69.
+</content>
+</part>
+
+<part id="6B" sno="9">
+<content>
+B. Warrant of arrest.
+Sec. 70 - 81.
+</content>
+</part>
+
+<part id="6C" sno="10">
+<content>
+C.Proclamation and attachment.
+Sec. 82 - 86.
+</content>
+</part>
+
+<part id="6D" sno="11">
+<content>
+D. Other rules regarding processes.
+Sec. 87 - 90.
+</content>
+</part>
+
+<part id="7" sno="12">
+<content>Chapter VII : PROCESSES TO COMPEL THE PRODUCTION OF THINGS
+Sec. 91 - 105.
+</content>
+</part>
+
+<part id="7A" sno="13">
+<content>
+A. Summons to produce.
+Sec. 91 - 92.
+</content>
+</part>
+
+<part id="7B" sno="14">
+<content>
+B. Search - warrants.
+Sec. 93 - 98.
+</content>
+</part>
+
+<part id="7C" sno="15">
+<content>
+C. General provisions relating to searches.
+Sec. 99 - 101.
+</content>
+</part>
+
+<part id="7D" sno="16">
+<content>
+D. Miscellaneous.
+Sec. 102 - 105.
+</content>
+</part>
+
+<part id="7AA" sno="17">
+<content>Chapter VIIA : RECIPROCAL ARRANGEMENTS FOR ASSISTANCE IN CERTAIN MATTERS AND PROCEDURE FOR ATTACHMENT AND FORFEITURE OF PROPERTY.
+Sec. 105A - 105L.
+</content>
+</part>
+
+<part id="8" sno="18">
+<content>Chapter VIII : SECURITY FOR KEEPING THE PEACE AND FOR GOOD BEHAVIOUR.
+Sec. 106 - 124.
+</content>
+</part>
+
+<part id="9" sno="19">
+<content>Chapter IX : ORDER FOR MAINTENANCE OF WIVES, CHILDREN AND PARENTS.
+Sec. 125 - 128.
+</content>
+</part>
+
+<part id="10" sno="20">
+<content>Chapter X : MAINTENANCE OF PUBLIC ORDER AND TRANQUILLITY.
+Sec. 129 - 148.
+</content>
+</part>
+
+<part id="10A" sno="21">
+<content>
+A. Unlawful assemblies.
+Sec. 129 - 132.
+</content>
+</part>
+
+<part id="10B" sno="22">
+<content>
+B. Public nuisances.
+Sec. 133 - 143.
+</content>
+</part>
+
+<part id="10C" sno="23">
+<content>
+C. Urgent cases of nuisance or apprehended danger.
+Sec. 144 - 144A.
+</content>
+</part>
+
+<part id="10D" sno="24">
+<content>
+D. Disputes as to immovable property.
+Sec. 145 - 148.
+</content>
+</part>
+
+<part id="11" sno="25">
+<content>Chapter XI : PREVENTIVE ACTION OF THE POLICE.
+Sec. 149 - 153.
+</content>
+</part>
+
+<part id="12" sno="26">
+<content>Chapter XII : INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE.
+Sec. 154 - 176.
+</content>
+</part>
+
+<part id="13" sno="27">
+<content>Chapter XIII : JURISDICTION OF THE CRIMINAL COURTS IN INQUIRIES AND TRIALS.
+Sec. 177 - 189.
+</content>
+</part>
+
+<part id="14" sno="28">
+<content>Chapter XIV : CONDITIONS REQUISITE FOR INITIATION OF PROCEEDING.
+Sec. 190 - 199.
+</content>
+</part>
+
+<part id="15" sno="29">
+<content>Chapter XV : COMPLAINTS TO MAGISTRATES.
+Sec. 200 - 203.
+</content>
+</part>
+
+<part id="16" sno="30">
+<content>Chapter XVI : COMMENCEMENT OF PROCEEDINGS BEFORE MAGISTRATES.
+Sec. 204 - 210.
+</content>
+</part>
+
+<part id="17" sno="31">
+<content>Chapter XVII : THE CHARGE
+Sec. 211 - 224.
+</content>
+</part>
+
+<part id="17A" sno="32">
+<content>
+A. Form of charges.
+Sec. 211 - 217.
+</content>
+</part>
+
+<part id="17B" sno="33">
+<content>
+B. Joinder of charges.
+Sec. 218 - 224.
+</content>
+</part>
+
+<part id="18" sno="34">
+<content>Chapter XVIII : TRIAL BEFORE A COURT OF SESSION.
+Sec. 225 - 237.
+</content>
+</part>
+
+<part id="19" sno="35">
+<content>Chapter XIX : TRIAL OF WARRANT - CASES BY MAGISTRATES
+Sec. 238 - 250.
+</content>
+</part>
+
+<part id="19A" sno="36">
+<content>
+A. Cases instituted on a police report.
+Sec. 238 - 243.
+</content>
+</part>
+
+<part id="19B" sno="37">
+<content>
+B. Cases instituted otherwise than on police report.
+Sec. 244 - 247.
+</content>
+</part>
+
+<part id="19C" sno="38">
+<content>
+C. Conclusion of trial.
+Sec. 248 - 250.
+</content>
+</part>
+
+<part id="20" sno="39">
+<content>Chapter XX : TRIAL OF SUMMONS CASES BY MAGISTRATES.
+Sec. 251 - 259.
+</content>
+</part>
+
+<part id="21" sno="40">
+<content>Chapter XXI : SUMMARY TRIALS.
+Sec. 260 - 265.
+</content>
+</part>
+
+<part id="21A" sno="41">
+<content>Chapter XXIA : PLEA BARGAINING.
+Sec. 265A - 265L.
+</content>
+</part>
+
+<part id="22" sno="42">
+<content>Chapter XXII : ATTENDANCE OF PERSONS CONFINED OR DETAINED IN PRISONS.
+Sec. 266 - 271.
+</content>
+</part>
+
+<part id="23" sno="43">
+<content>Chapter XXIII : EVIDENCE IN INQUIRIES AND TRIALS.
+Sec. 272 - 299.
+</content>
+</part>
+
+<part id="23A" sno="44">
+<content>
+A. - Mode of taking and recording evidence.
+Sec. 272 - 283.
+</content>
+</part>
+
+<part id="23B" sno="45">
+<content>
+B. - Commissions for the examination of witnesses.
+Sec. 284 - 299.
+</content>
+</part>
+
+<part id="24" sno="46">
+<content>Chapter XXIV : GENERAL PROVISIONS AS TO INQUIRIES AND TRIALS.
+Sec. 300 - 327.
+</content>
+</part>
+
+<part id="25" sno="47">
+<content>Chapter XXV : PROVISIONS AS TO ACCUSED PERSONS OF UNSOUND MIND.
+Sec. 328 - 339.
+</content>
+</part>
+
+<part id="26" sno="48">
+<content>Chapter XXVI : PROVISIONS AS TO OFFENCES AFFECTING THE ADMINISTRATION OF JUSTICE.
+Sec. 340 - 352.
+</content>
+</part>
+
+<part id="27" sno="49">
+<content>ChapterXXVII : THE JUDGEMENT.
+Sec. 353 - 365.
+</content>
+</part>
+
+<part id="28" sno="50">
+<content>Chapter XXVIII : SUBMISSION OF DEATH SENTENCES FOR CONFIRMATION.
+Sec. 366 - 371.
+</content>
+</part>
+
+<part id="29" sno="51">
+<content>Chapter XXIX : APPEALS.
+Sec. 372 - 394.
+</content>
+</part>
+
+<part id="30" sno="52">
+<content>Chapter XXX : REFERENCE AND REVISION.
+Sec. 395 - 405.
+</content>
+</part>
+
+<part id="31" sno="53">
+<content>Chapter XXXI : TRANSFER OF CRIMINAL CASES.
+Sec. 406 - 412.
+</content>
+</part>
+
+<part id="32" sno="54">
+<content>Chapter XXXII : EXECUTION, SUSPENSION, REMISSION AND COMMUTATION OF SENTENCES.
+Sec. 413 - 435.
+</content>
+</part>
+
+<part id="32A" sno="55">
+<content>
+A. Death sentences.
+Sec. 413 - 416.
+</content>
+</part>
+
+<part id="32B" sno="56">
+<content>
+B. Imprisonment.
+Sec. 417 - 420.
+</content>
+</part>
+
+<part id="32C" sno="57">
+<content>
+C. Levy of fine.
+Sec. 421 - 424.
+</content>
+</part>
+
+<part id="32D" sno="58">
+<content>
+D. General provisions regarding execution.
+Sec. 425 - 431.
+</content>
+</part>
+
+<part id="32E" sno="59">
+<content>
+E. Suspension, remission and commutation of sentences.
+Sec. 432 - 435.
+</content>
+</part>
+
+<part id="33F" sno="60">
+<content>Chapter XXXIII : PROVISIONS AS TO BAIL AND BONDS.
+Sec. 436 - 450.
+</content>
+</part>
+
+<part id="34" sno="61">
+<content>Chapter XXXIV : DISPOSAL OF PROPERTY.
+Sec. 451 - 459.
+</content>
+</part>
+
+<part id="35" sno="62">
+<content>Chapter XXXV : IRREGULAR PROCEEDINGS.
+Sec. 460 - 466.
+</content>
+</part>
+
+<part id="36" sno="63">
+<content>Chapter XXXVI : LIMITATION FOR TAKING COGNIZANCE OF CERTAIN OFFENCES.
+Sec. 461 - 473.
+</content>
+</part>
+
+<part id="37" sno="64">
+<content>Chapter XXXVII : LIMITATION FOR TAKING COGNIZANCE OF CERTAIN OFFENCES.
+Sec. 474 - 484.
+</content>
+</part>
+
+<part id="38" sno="65">
+<content>THE FIRST SCHEDULE
+</content>
+</part>
+
+<part id="39" sno="66">
+<content>THE SECOND SCHEDULE
+</content>
+</part>
+</acts>

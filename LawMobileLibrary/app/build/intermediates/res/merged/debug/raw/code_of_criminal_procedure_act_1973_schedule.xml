@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<form id="1" sno="1" value ="FORM NO.1 : Summons to an Accused Person">
+<content>
+(See section 61)
+To...................................... (name of accused) of .........................(address)
+WHEREAS your attendance is necessary to answer to a charge of ..................... (state shortly the offence charged), you are hereby required to appear in person (or by pleader, as the case may be) before the (Magistrate) of............................... on the ........................day of .................... Herein fail not.
+Dated, this ............... day of ......,20 .....
+(Seal of Court)
+(Signature)
+</content>
+</form>
+
+<form id="2" sno="2" value ="FORM NO. 2  : Warrant of Arrest">
+<content>
+(See section 70)
+To................................................. (name and designation of the person of persons who is or are to execute the warrant).
+WHEREAS (name and accused) of (address) stands charged with the offence of ................................(state the offence),you are hereby directed to arrest the said ............................ and to produce him before me. Herein fail not.
+Dated, this............................. day of ..............., 20......
+(Seal of the Court)
+(Signature)
+(See section 71)
+This warrant may be endorsed as follows:-
+If the said .........................shall give bail himself in the sum of rupees ....................with one surety in the sum of rupees .................. (or two sureties each in the sum of rupees ..................) to attend before me on the ..................... day of ...................... and to continue so to attend until otherwise directed by me, he may be released.
+Dated, this ...............................day of ...............,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="3" sno="3" value ="FORM NO. 3 : Bond and Bail-Bond after Arrest under a Warrant.">
+<content>
+(See section 81)
+I,................................................(name), of .......................... being brought before the District Magistrate of ........................(or as the case may be) under a warrant issued to compel my appearance to answer to the charge of .....................,do hereby bind myself to attend in the Court of ..................... on the day of ....................... next, to answer to the said charge, and to continue so to attend until otherwise directed by the Court, and in case of my making default herein, I bind myself to forfeit, to Government, the sum of rupees.
+Dated, this ....................day of ...............,20......
+(Seal of the Court)
+(Signature)
+
+I do hereby declare myself surety for the above-named ............................ of..............,that he shall attend before .................. in the Court of .......................... on the day of ................. next, to answer to the charge on which he has been arrested, and shall continue so to attend until otherwise directed by the Court; and in case of his making default therein, I bind myself to forfeit, to Government, the sum of rupees.
+Dated, this....................day of ............,20.....
+(Signature)
+</content>
+</form>
+
+<form id="4" sno="4" value ="FORM NO. 4 : Proclamation requiring the appearance of a Person Accused.">
+<content>
+(See section 82)
+WHEREAS complaint has been made before me that ........................................ (name, description and address) has committed (or is suspected to have committed) the offence of...................,punishable under section .............. of the Indian Penal Code, and it has been returned to a warrant of arrest thereupon issued that the said.................................... (name) cannot be found, and whereas it has been shown to my satisfaction that the said ............................... (name) has absconded (or is concealing himself to avoid the service of the said warrant);
+Proclamation is hereby made that the said ...................... of ...................is required to appear at.......................(place)before this Court (or before me ) to answer the said complaint in the ......................day of ...................... ,
+Dated, this..........................day of ....................,20 .....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="5" sno="5" value ="FORM NO. 5 : Proclamation requiring the attendance of a Witness.">
+<content>
+(See sections 82, 87, and 90)
+WHEREAS complaint has been made before me that............................................. (name, description and address) has committed (or is suspected to have committed) the offence of.................................... (mention the offence concisely) and a warrant has been issued to compel the attendance of ..........................(name, description and address of the witness) before this Court to be examined touching the matter of the said complaint; and whereas it has been returned to the said warrant that the said ...............................(name of witness) cannot be served, and it has been shown to my satisfaction that he has absconded (or is concealing himself to avoid the service of the said warrant);
+Proclamation is hereby made that the said ..................................... (name) is required to appear at .........................(Place) before the Court of ...................................... on the ............................ Day of.....................next at............................O'clock to be examined touching ........................ the offence complained of
+Dated, this .....................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="6" sno="6" value ="FORM NO. 6 :Order of attachment to compel the attendance of a Witness.">
+<content> 
+(See section 83)
+To the Officer in charge of the Police station at ..........................
+WHEREAS a warrant has been duly issued to compel the attendance of ..............................................(name, description and address) to testify concerning a complaint pending before this Court, and it has been returned to the said warrant that it cannot be served; and whereas it has been shown to my satisfaction that he has absconded (or is concealing himself the avoid the service of the said warrant);and thereupon a proclamation has been or is being duly issued and published requiring the said ......................to appear and give evidence at the time and place mentioned therein;
+This is to authorise and require you to attach by seizure the movable property belonging to the said...................... to the value of rupees ..................which you may find within the District of ....................... and to hold the said property under attachment pending the further order of his Court, and to return this warrant with an endorsement certifying the manner of its execution.
+Dated, this.........................day of ............., 20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="7" sno="7" value ="FORM NO. 7: Order of attachment to compel the appearance of a Person Accused.">
+<content>
+(See section 83)
+To.............................................. (name and designation of the person or persons who is or are to execute the warrant).
+WHEREAS complaint has been made before me that ........................................(name, description and address) has committed (or is suspected to have committed) the offence of..................... punishable under section................... of the Indian Penal Code, and it has been returned to a warrant of arrest thereupon issued that the said .................................. (name) cannot be found; and whereas it has been shown to my satisfaction that the said .................................(name) has absconded (or is concealing himself to avoid the service of the said warrant) and thereupon a Proclamation has been or is being duly issued and published requiring the said........................ to appear to answer the said charge within .................. days; and whereas the said ................ is possessed of the following property, other than land paying revenue to Government, in village (or town), of ................................ in the District of...................., viz ..................,...............and an order has been made for the attachment thereof;
+You are hereby required to attach the said property in the manner specified in clause (a), or clause (c), or both1 , of sub-section (2) of section 83, and to hold the same under attachment pending further order of this Court, and to return this warrant with an endorsement certifying the manner of its execution.
+Dated, this.........................day of ...................., 20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="8" sno="8" value ="FORM NO. 8: Order authorising an attachment by the District Magistrate or Collector.">
+<content> 
+(See section 83)
+To the District Magistrate/Collector of the District of .................
+WHEREAS complaint has been made before me that.............................................(name, description and address) has committed (or is suspected to have committed) the offence of ....................... punishable under section................ of the Indian Penal Code, and it has been returned to a warrant of arrest thereupon issued that the said .......................................... (name) cannot be found; and whereas it has been shown to my satisfaction that the said ....................................(name) has absconded (or is concealing himself to avoid the service of the said warrant) and there upon a Proclamation has been or is being duly issued and published requiring the said .................................. (name) to appear to answer the said charge within .............. days; and whereas the said ...................... is possessed of certain land paying revenue to Government in the village (or town) of .......................in the District of .....................,
+You are hereby authorised and requested to cause the said land to be attached, in the manner specified in clause (a), or clause (c), or both2 , of sub-section (4) of section83, and to be held under attachment pending the further order of this Court, and to certify without delay what you may have done in pursuance of this order.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="9" sno="9" value ="FORM NO. 9: Warrant in the first instance to Bring up a Witness.">
+<content>
+(See section 87)
+To.........................................(name and designation of the Police Officer or other person or persons who is or are to execute the warrant).
+WHEREAS complaint has been made before me that..............................(name and description of accused) of..............................(address) has (or is suspected to have) committed the offence of .......................(mention the offence concisely), and it appears likely that ............................ (name and description of witness) can give evidence concerning the said complaint and whereas I have good and sufficient reason to believe that he will not attend as a witness on the hearing of the said complaint unless compelled to do so;
+This is to authorise and require you to arrest the said ............................. (name of witness) and on the......................day of.................. to bring him before this Court, to be examined touching the offence complained of.
+Dated, this.................. day of......................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="10" sno="10" value ="FORM NO. 10: Warrant to search after information of a particular Offence. ">
+<content>
+(See section 93)
+To................................... (name and designation of the Police Officer or other person or persons who is or are to execute to warrant).
+WHEREAS complaint has been laid (or complaint has been made) before me of the commission (or suspected commission) of the offence of ...................(mention the offence concisely), and it has been made to appear to me that the production of............................... (specify the thing clearly) is essential to the inquiry now being made(or about to be made) into the said offence (or suspected offence);
+This is to authorise and require you to search for the said ............................(the thing specified)in the(describe the house or place or part thereof to which the search is to be confined),and, if found, to produce the same forthwith before this Court, returning this warrant, with an endorsement certifying what you done under it, immediately upon its execution.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="11" sno="11" value ="FORM NO. 11: Warrant to search suspected place of Deposit.">
+<content> 
+(See section 94)
+To..................................... (name and designation of the Police Officer above the rank of a constable).
+WHEREAS information has been laid before me, and do inquiry thereupon had, I have been led to believe that the ............................. (describe the house or other place)is used as a place for the deposit (or sale) of stolen property (or is for either of the other purpose expressed in the section, state the purpose in the words of the section);
+This is to authorise and require you to enter the said house (or other place) with such assistance as shall be required, and to use, if necessary, reasonable force for that purpose, and to search every part of the said house (or other place, or of the search is to be confined to a part, specify the part clearly), and to seize and take possession of any property (or documents, or stamps, or seals, or coins, or obscene objects, as the case may be) (add, when the case requires it) and also of any instrument and materials which you may reasonable believe to be kept for the manufacture of forged documents, or counterfeit stamps, or false seals or counterfeit coins or counterfeit currency notes (as the case may be),and forthwith to bring before this Court such of the said things as may be taken possession of, returning this warrant, with an endorsement certifying what you have done under it, immediately upon its execution.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="12" sno="12" value ="FORM NO. 12: Bond to keep the peace.">
+<content>
+(See sections 106 and 107)
+WHEREAS I, ............................ (name) inhabitant of......................... (Place), have been called upon to enter into a bond to keep the peace for the term of ............... or until the completion of the inquiry in the matter of ........................ now pending in the Court of............................., I hereby bind myself not to commit a breach of the peace, or do any act that may probably occasion a breach of the peace, during the said term or until the completion of the said inquiry and, in case of my making default therein, I hereby hind myself to forfeit to Government the sum of rupees.................
+Dated, this.......................day of ............,20.....
+(Signature)
+</content>
+</form>
+
+<form id="13" sno="13" value ="FORM NO. 13: Bond for good behaviour. ">
+<content>
+(See sections 108, 109 and110)
+WHEREAS I, ................................(name) inhabitant of (Place)......................, have been called upon to enter into a bond to be of good behaviour to Government and all the citizen of India for the term of ....................... (state the period) or until the completion of the inquiry in the matter of ..................... now pending in the Court of.........................., I hereby bind myself to be of good behaviour to Government and all the citizens of India during the said term or until the completion of the said inquiry; and, in case of my making default therein, I hereby myself to forfeit to Government the sum of rupees ......................
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+(Where a bond with sureties is to be executed, add...)
+We do hereby declare ourselves sureties for the above-named ..................... that he will be of good behaviour to Government and all the citizens of India during the said term or until the completion of the said inquiry; and, in case of his making default therein, we bind ourselves, jointly and severally, to forfeit to Government the sum of rupees .......................
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="14" sno="14" value ="FORM NO. 14: Summons of information of a probably breach of the peace.">
+<content> 
+(See section 113)
+To......................... of.....................
+WHEREAS is has made to appear to me by credible information that ....................... (state the substance of the information), and that you are likely to commit a breach of the peace (or by which act a breach of the peace will probably be occasioned),you are hereby required to attend in person (or by a duly authorised agent) at the office of the Magistrate of ......................... on the.....................day of 20 ............... at ten o'clock in the forenoon, to show cause why you should not be required to enter in to a bond for rupees ........................ [when sureties are required, add, and also to give security by the bond of one (or two, as the case may be)surety (or sureties)in the sum of rupees ...............(each if more than one)] that you will keep the peace for the term of ................
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="15" sno="15" value ="FORM NO. 15: Warrant of commitment on failure to find security to keep the peace. ">
+<content>
+(See section 122)
+To the Officer in charge of the Jail at ..........................
+WHEREAS................................................(name and address)appeared before me in person (or by his authorised agent) on the .......................day of ...................in obedience to a summons calling upon him to show cause why he should not enter into a bond for rupees ......................with one surety (or a bond with two sureties each in rupees...) that be, the said .................................(name), would keep the peace for the period of....................... months; and whereas an order was then made requiring the said .................................. (name) to enter into and find such securities (state the security ordered when if differs from that mentioned in the summons), and he has failed to comply with the said order;
+This is to authorise and require you to receive the said .............................(name) into your custody, together with this warrant, and him safely to keep in the said jail for the said period of ............................ (term of imprisonment) unless he shall in the meantime be lawfully ordered to be released, and to return this warrant with an endorsement certifying the manner of its execution.
+Dated, this.......................day of ............, 20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="16" sno="16" value ="FORM NO. 16: Warrant of commitment on failure to find security for good behaviour.">
+<content>
+(See section 122)
+To the Officer in charge of the jail at .................
+WHEREAS it has been made to appear to me that ............................(name and description) has been concealing his presence within the district of .................. and that there is reason to believe that he is doing so with a view to committing a cognizable offence.
+or
+WHEREAS evidence of the general character of .........................................(name and description) has been adduced before me and recorded, from which it appears that he is an habitual robber (or house-breaker, etc., as the case may be);
+And whereas an order has been recorded station the same and requiring the said ...................................... (name) to furnish security for his good behaviour for the term of ...............................(state the period) by entering into a bend with one surety (or two or more sureties, as the case may be), himself for rupees ..............., and the said surety (or each of the said sureties) or rupees ......................... and the said.................................. (name) has failed to comply with the said order and for such default has been adjudged imprisonment for ............................(state the term) unless the said security by sooner furnished;
+This is to authorised and require you to receive the said ........................... (name)into your custody, together with this warrant and him safely to keep in the Jail, or if he already in prison, be detained therein, for the aid period of ................... (term of imprisonment) unless he shall in the meantime be lawfully ordered to be released, and to return this warrant with an endorsement certifying the manner of its execution.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="17" sno="17" value ="FORM NO. 17 : Warrant to discharge a person imprisoned on failure to give security.">
+<content> 
+(See sections 122 and 123)
+To the Officer in charge of the Jail at .................................... (or other officer in whose custody the person is).
+WHEREAS .................................(name and description of prisoner) was committed to your custody under warrant of the Court, dated the ...................day of ...............20....;and has since duly given security under section ................... of the Code of Criminal Procedure, 2073.
+or
+WHEREAS...............................(name and description of prisoner) was committed to your custody under warrant of the Court, dated the ...............day of.......... 20....and there have appeared to me sufficient grounds for the opinion that he can be released without hazard to the community;
+This is to authorise and require you forthwith to discharge the said ........................ (name) from your custody unless he is liable to be detained for some other cause.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="18" sno="18" value ="FORM NO. 18 : Warrant of imprisonment of failure to pay maintenance.">
+<content> 
+(See section 125)
+To the Officer in charge of the jail at ............................
+WHEREAS................................................(name and description and address) has been proved before me to be possessed of sufficient means to maintain his wife ..................................(name) [or his child .................................... (name) or his father of mother...........................(name), who is by reason of ..............................(state the reasons) unable to maintain here self (or himself)] and to have neglected (or refused) to do so, and an order has been duly made requiring the said ............................ (name) to allow to his said wife (or child or father or mother) for maintenance the monthly sum of rupees...................and whereas it has been further proved that the said..........................(name)in willful disregard of the said order has failed to pay rupees ....................., being the amount of the allowance for the month (or months) of ................
+And thereupon an order was made adjudging him to undergo imprisonment un the said Jail for the period of ....................;
+This is to authorise and require you to receive the said ..............................(name) into your custody in the said Jail, together with this warrant, and there carry said order into execution according to law, returning this warrant with an endorsement certifying the manner of its execution.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="19" sno="19" value ="FORM NO. 19 : Warrant to enforce the payment of maintenance by Attachment and Sale. ">
+<content>
+(Seesection125)
+To........................................... (name and designation of the Police Officer or other person to execute the warrant).
+WHEREAS an order has been duly made requiring ................................... (name) to allow to his said wife(or child or father or mother) for maintenance the monthly sum of rupees...................... and whereas the said ............................(name) in wilful disregard of the said order has failed to pay rupees ..................., being the amount of the allowance for the month (or months) of .................
+This is to authorise and require you to attach any movable property belonging to the said...........................(name) which may be found within the district of................... and of within.........................(state the number of days or hours allowed)next after such attachment the said sum shall not be paid (or forthwith), to sell the movable property attached, or so much thereof what you have done under it, immediately upon its execution.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="20" sno="20" value ="FORM NO. 20 : Order for the removal of nuisances.">
+<content>
+(See section 133)
+To................................................................ (name, description and address)
+WHEREAS it has been made to appear to me that you have caused an obstruction (or nuisance)to person using the public roadway (or other public place) Which, etc.........................(describe the road or public)by, etc. .................., (state what it is that cause the obstruction or nuisance), and that such obstruction (or nuisance) still exits;
+or
+WHEREAS it has been made to appear to me that you are carrying on, as owner, or manager, the trade or occupation of ............................... (state the particular trade or occupation and the place where it is carried on), and that the same is injurious to the public health (or comfort) by reason .................................. (state briefly) in what manner the injurious effects are caused),and should be suppressed or removed to a different place.
+or
+WHEREAS it has been made to appear to me that you are the owner (or are in possession of or have the control over) a certain and(or well or excavation) adjacent to the public way ..................... (describe the thoroughfare), and that the safety of the public is endangered by reason of the said tank (or well or excavation) being without a fence (or insecurely fenced);
+or
+WHEREAS, etc., etc., (as the case may be);
+I do hereby direct and require you within .................(state the time allowed)................................(state what is required to be done to abate the nuisance)or to appear at ...................... in Court of.............. on the .....................day of .............. next, and to show cause why this order should not be enforced;
+or
+I do hereby direct and require you within .....................(state the time allowed)to cease carrying on the said trade or occupation at the said place, and not again to carry on the same, or to remove the said trade from the place where it is now carried on, or to appear, etc.;
+or
+I do hereby direct and require you within .......................(state the time allowed) to put up a sufficient fence .....................(state the kind of fence and the part to be fenced); or to appear, etc.;
+I do hereby direct and require you, etc., etc., (as the case may be).
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="21" sno="21" value ="FORM NO. 21 : Magistrate's Notice and Preemptory Order.">
+<content>
+(See section 141)
+To........................................................(name, description and address)
+I HEREBY give you notice that it has been found that the order issued on the ......................... day of....................... requiring you............................... (state substantially the requisition in the order) is reasonable and proper. Such order has been made absolute, and I hereby direct and require you to obey the said order within ............................(state the time allowed),on peril of the penalty provided by the Indian Penal Code for disobedience thereto.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="22" sno="22" value ="FORM NO. 22 : Injunction to provide against imminent danger pending inquiry.">
+<content> 
+(See section 142)
+To...........................................(name, description and address)
+WHEREAS the inquiry into the conditional order issued by me on the ................day of .................. 20....,is pending, and it has been made to appear to me that the nuisance mentioned in the said order is attended with such imminent danger or injury of a serious kind to the public as to render necessary immediate measures to prevent such danger or injury, I do hereby, under the provisions of section 142 of the Code of Criminal Procedure, 2073, direct and enjoy you forthwith to .................................(state plainly what is required to be dine as a temporary safeguard), pending the result of the inquiry.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="23" sno="23" value ="FORM NO. 23: Magistrate's Order prohibiting the repetition, etc., of a nuisance.">
+<content>
+(See section 143)
+To........................................................(name, description and address)
+WHEREAS it has been made to appear to me that, etc.,........................ (state the proper recital, guided by Form No. 20 or Form No. 24, as the case may be);
+I do hereby strictly order and enjoin you not to repeat or continue, the said nuisance.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="24" sno="24" value ="FORM NO. 24: Magistrate's Order to prevent obstruction, Riot, etc.">
+<content>
+(See section 144)
+To........................................................(name, description and address)
+WHEREAS it has been made to appear to me that you are in possession (or have the management) of ............................ (describe clearly the property), and that, in digging a drain on the said land, you are about to throw or place a portion of the earth and stone dug-up upon the adjoining public road, so as to occasion risk of obstruction to persons using the road.
+or
+WHEREAS it has been made to appear to me that you and a number of other persons...................................(mention the class of persons) are about to meet and proceed in a procession along the public street, etc., (as the case may be)and that such procession is likely to lead to a riot or an affray;
+or
+WHEREAS, etc., etc., (as the case may be);
+I do hereby order you not to place or permit to be placed any of the earth or stones dug from 1 and on any part of the said road;
+or
+I do hereby prohibit the passing along the said street, and strictly warn and enjoin you not to take any part in such procession (or as the case recited may require)
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="25" sno="25" value ="FORM NO. 25 : Magistrate's Order declaring party entitled to retain possession of Land, etc., in dispute.">
+<content> 
+(See section 145)
+It appear to me, on the grounds duly recorded, that a dispute, likely to induce a breach of the peace, existed between ........................................................ (describe the parties by name and residence, or residence only if the dispute be between bodies of villagers)certain ................................... (state concisely the subject of dispute), situate within my local jurisdiction, all the said parties were called upon to give in a written statement of their respective claims as to the fact of actual possession of the said ...................................(the subject of dispute), and being satisfied by due inquiry had thereupon, without reference to the merits of the claim of either of the said parties to the legal right of possession, that the claim of actual possession by the said .......................... (name or names or description)is true, I so decide and declare that he is (or they are)in possession of the said............................. (the subject of dispute)and entitled to retain such possession until ousted by due course of law, and do strictly forbid any disturbance of his (or their)possession in the meantime.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="26" sno="26" value ="FORM NO. 26 : Warrant of attachment in the case of a dispute as to the possession of Land, etc.">
+<content>
+(See section 146)
+To the Officer in charge of the Police Station at ....................
+(or, To the Collector of .....................)
+WHEREAS it has been made to appear to me that a dispute likely to induce a breach of the peace existed between ..................................(describe the parties concerned by name and residence, or residence only of the dispute be between bodies of villagers)concerning certain .......................(state concisely the subject of dispute) situate within the limits of my jurisdiction, and the said parties were thereupon duly called upon to state in writing their respective claims as to the fact of actual possession of the said........................... (the subject of dispute),and whereas, upon due inquiry into the said claims, I have decided that neither of the said parties was in possession of the said ................................. (the subject of dispute) (or I am unable to satisfy myself as to which of the said parties was in possession as aforesaid);
+This is to authorised and require you to attach the said .............................. (the subject of dispute)by taking and keeping possession thereof, and to hold the some under attachment until the decree or order of a competent Court determining the rights of the parties, or the claim to possession, shall have been obtains, and to return this warrant with an endorsement certifying the manner of its execution.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="27" sno="27" value ="FORM NO. 27: Magistrate's Order prohibiting the doing of anything on Land or Water.">
+<content>
+(See section 147).
+A DISPUTE having arisen concerning the right of use of ............................... (state concisely the subject of dispute) situate within my local jurisdiction, the possession of which land (or water) is claimed exclusively by ................................ (describe the person or persons), and it appears to me, on due inquiry into the same, that the said land (or water) has been open to the enjoyment of such use by the public (or if by individual or a class of persons, describe him or them) and (if the use can be enjoyed throughout the year) that the said use has been enjoyed within three months of the institution of the said inquiry (or if the use is enjoyable only at a particular season say, "during the last of the seasons at which the same is capable of being enjoyed"); 
+I do order that the said ............................. (the claimant or claimant of possession)or any one in their interest, shall not take (or retain) possession of the said land (or water) to the exclusion of the enjoyment of the right of use aforesaid, until he (or they) shall obtain the decree or order of a competent Court adjudging him (or them) to be entitled to exclusive possession.
+Dated, this.......................day of ............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="28" sno="28" value ="FORM NO. 28 : Bond and Bail-Bond on a preliminary inquiry before a Police Officer.">
+<content>
+(See section 169)
+I,...........................................(name),of ........................, being charged with the offence of..................................and after inquiry required to appear before the Magistrate of..........................
+or
+and after inquiry called upon to enter into my own recognizance to appear when required, do hereby bind myself to appear at......................... in the Court of........................, on the.....................day of ....................... next (or on such day as I may hereafter be required to attend) to answer further to the said charge, and in case of my making default therein, I bind myself to forfeit to Government, the sum of rupees.....................
+Dated, this...........................day of......................,20......
+(Seal of the Court)
+(Signature)
+I hereby declare myself (or we jointly and severally declare ourselves and each of us) surety(or sureties) for the above said ........................(name) that he shall attend at........................in the Court of ..........................., on the.....................day of .................. next (or on such day as he may hereafter be required to attend), further to answer to the charge pending against him, and, in case of his making default therein, I hereby bind myself (or we hereby bind ourselves) to forfeit to Government, the sum of rupees.....................
+Dated, this........................day of ......................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="29" sno="29" value ="FORM NO. 29 : Bond to prosecute or give Evidence.">
+<content>
+(See section170)
+I,..........................................(name), of ..............................., (place) do hereby bind myself to attend at ...................... in the Court of ................... at................o'clock on the....................day of.....................next and then and there to prosecute (or to prosecute and give evidence)(or to give evidence) in the matter of a charge of ............. against one A.B. and, in case of making default herein. I bind myself to forfeit to Government the sum of rupees ......................
+Dated, this........................day of ...................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="30" sno="30" value ="FORM NO. 30 : Special summons to a person accused of a Petty Offence.">
+<content> 
+(See section 206)
+To.....................................................(Name of the accused)
+of.........................................................................(address)
+WHEREAS your attendance is necessary to answer a charge of a petty offence .................................. (state shortly the offence charged), you are hereby required to appear in person (or by pleader) before ......................... (Magistrate) of.....................on the ....................... day of.......................20....., or if you desire to plead guilty to the charge without appearing before the Magistrate, to transmit before the aforesaid date the plea of guilty in writing and the sum of ................ rupees as fine, or if you desire to appear by pleader and to plead guilty through such pleader, to authorize such pleader. Herein fail not.
+Dated, this............................day of ......................,20......
+(Seal of the Court)
+(Signature)
+(Note.-The amount of fine specified in this summons shall not exceed one hundred rupees.)
+</content>
+</form>
+
+<form id="31" sno="31" value ="FORM NO. 31 : Notice of commitment by Magistrate to Public Prosecutor.">
+<content>
+(See section 209)
+The Magistrate of ................................. hereby gives notice that he has committed one................................. for trial at the next Sessions; and the Magistrate hereby instructs the Public Prosecutor to conduct the prosecution of the said case.
+The charge against the accused is that, ........................... etc. (state the offence as in the charge).
+Dated, this ............................day of ......................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="32" sno="32" value ="FORM NO. 32 : Charges.">
+<content>
+(See section 211,212 and 213)
+I. CHARGES WITH ONE-HEAD
+(1)(a) I, .................................................... (name and office of Magistrate, etc.), hereby charge you...................................... (name of accused person)as follows:-
+(b) On section 121.--That you, on or about the................... day of.........., at ............................... waged war against the Government of India and thereby committed an offence punishable under section 121 of the Indian Penal Code, and within the cognizance of this Court.
+(c)And I hereby direct that you be tried by this Court on the said charge.
+(Signature and Seal of the Magistrate)
+[To be substituted for(b)]--
+(2) On section 124.--That you, on or about the.................. day of ................, at................................., with the intention of inducing the President of India [or, as the case may be, the Governor of ..........................(name of State) to refrain from exercising a lawful power as such President (or, as the case may be, the Governor), assaulted President (or, as the case may be, Governor), and thereby committed an offence punishable under section 124 of the Indian Penal Code, and within the cognizance of this Court.
+(3) On section 161.--That you being a public servant in the..................................Department, directly accepted from .......................... (state the name)for another party...................... (state the name)gratification other than legal remuneration, as a motive for forbearing to do an official act, and thereby committed an offence punishable under section161 of the Indian Penal Code, and within the cognizance of this Court.
+(4) On section 166.--That you, on or about the ................day of ................, at........................ did (or omitted to do, as the case may be), such conduct being contrary to the provisions of....................Act .............., section ............., and known by you to be prejudicial to...................., and thereby committed an offence punishable under section 166 of the Indian Penal Code, and within the cognizance of this Court.
+(5) On section 193.--That you, on or about the........................day of ................, at.................. in the course of the trail of ............. Before ............., started in evidence that".........................."which statement you either knew or believed to be false, or did not believe to be true, and thereby committed an offence punishable under section 203 of the Indian Penal Code, and within the cognizance of this Court.
+(6) On section 304.--That you, on or about the................day of ..................,at ..................... , committed culpable homicide not amounting to murder, causing the death of ........................, and thereby committed an offence punishable under section 304 of the Indian Penal Code, and within the cognizance of this Court.
+(7) On section 306.--That you, on or about the....................day of ..............,at ....................,abetted the commission of suicide by A.B., a person in a state of intoxication, and thereby committed an offence punishable under section 306 of the Indian Penal Code, and within the cognizance of this Court.
+(8) On section 325.--That you, on or about the.................... day of ................,at ...................,voluntarily caused grievous hurt to .................... and thereby committed and offence punishable under section 325 of the Indian Penal Code, and within the cognizance of this Court.
+(9) On section 392.--That you, on or about the.................day of ...............,at ...................., robbed (state the name),and thereby committed an offence punishable under section 392 of the Indian Penal Code, and within the cognizance of this Court.
+(10) On section 395.--That you, on or about the................day of...............,at ...................,committed dacoity, an offence punishable under section 395 of the Indian Penal Code, and within the cognizance of this Court.
+II. CHARGES WITH TWO OR MORE HEADS
+(1)(a) I, .............................(name and office of Magistrate, etc.),hereby charge you.................................... (name of accused person) as follows:-
+(b) On section 241 First--That you, on or about the...............day of .........., at.................... knowing a count to be counterfeit, delivered the same to another person, by name, A.B. as genuine, and thereby committed an offence punishable under section 241 of the Indian Penal Code, and within the cognizance of the Court of Session.
+Secondly--That you, on or about the ............... day of ............., at ............... knowing a coin to be counterfeit attempted to induce another person, by name, A.B. to receive it as genuine, and thereby committed an offence punishable under section 241 of the Indian Penal Code, and within the cognizance of the Court of Session.
+(c) And I hereby direct that you be tried by this Court on the said charge.
+(Signature and Seal of the Magistrate)
+[To be substituted for(b)]:--
+(2) On section 302 and 304 First.--That you, on or about the..................day of ................, at ....................committed murder by causing the death of .............and thereby committed an offence punishable under section 302 of the Indian Penal Code, and within the cognizance of the Court of Session.
+Secondly--That you, on or about the .................. day of ............., at ..............., by causing the death of...................committed culpable homicide not amounting to murder, and thereby committed an offence punishable under section 304 of the Indian Penal Code, and within the cognizance of the Court of session.
+(3) On section 379 and382 First--That you, on or about the...............day of .............., at...................,committed theft, and thereby committed an offence punishable under section 379 of the Indian Penal Code, and within the cognizance of the Court of session.
+Secondly--That you, on or about the ........................ day of .........................., at .........................., committed theft, having made preparation for causing death to a person in order to committing of such theft, and there by committed an offence punishable under section 382 of the Indian Penal Code, and within the cognizance of the Court of Session.
+Thirdly--That you, on or about the ....................... day of .........., at ...............,committed theft, having made preparation for causing restraint to a person in order to the effecting of your escape after the committing of such theft, and thereby committed an offence punishable under section 382 of the Indian Penal Code, and within the cognizance of the Court of Session.
+Fourthly--That you, on or about the .................. day of ................, at................., committed theft, having made preparation for causing fear of hurt to a person in order to the retaining of property taken by such theft and thereby committed an offence punishable under section382 of the Indian Penal Code, and within the cognizance of the Court of Session.
+(4) Alternative charge on section 193.--That you, on or about the................. day of.............., at..................., in the course of the inquiry into ..................., before ..........................., stated in evidence that"...................." and that you, on or about the.................day of....................at ........................,in the course of the trail of.........................,before .........................,stated in the evidence that "...................." One of which statements you either knew or believed to be false, or did not believe to be true, and thereby committed an offence punishable under section 203 of the Indian Penal Code, and within the cognizance of the Court of Session.
+(In cases tried by Magistrates substitute "within my cognizance", for "within the cognizance of the Court of Session").
+
+III. CHARGES FOR THEFT AFTER PREVIOUS CONVICTION
+I,........................................................... (name and office of Magistrate, etc.), hereby charge you........................................ (name of accused person)as follows:-
+That you, on or about the ...................day of ..............., at ..............., committed theft, and thereby committed an offence punishable under section 379 of Indian Penal Code, and within the cognizance of the Court of Session (or Magistrate, as the case may be.)
+And you, the said .................................. (name of accused), stand further charged that you, before the committing of the said offence, that is to say, on the ...................day of.................., had been convicted by the ......................(state Court by which conviction was had)at........................ of an offence punishable under Chapter XVII of the Indian Penal Code with imprisonment or a them of three years, that is to say, the offence of house-breaking by night ........................... (describe the offence in the words used in the section under which the accused was convicted), which conviction is still in full force and effect, and that you are thereby liable to enhanced punishment under section 75 of the Indian Penal Code.
+And I hereby direct that you be tried, etc.
+</content>
+</form>
+
+<form id="33" sno="33" value ="FORM NO. 33 : Summons to witness.">
+<content>
+(See section 61 and 244)
+To .............................. of .........................
+WHEREAS complaint has been made before me that ................................. (name of the accused) of............................(address) has (or is suspected to have) committees the offence of .......................)state the offence concisely with time and place), and it appears to me that you are likely to give material evidence or to produce any document or other thing for the prosecution;
+You are hereby summoned to appear before this Court on the .....................day of..................... next at ten o’clock in the forenoon, to produce such document or thing or to testify what you know concerning the matter of the said complaint, and not to depart thence without leave of the Court; and you are hereby warned that, if you shall without just excuse neglect or refuse to appear on the said date, a warrant will be issued to compel your attendance.
+Dated, this ............................day of ......................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="34" sno="34" value ="FORM NO. 34 : Warrant of commitment on a sentence of imprisonment or fine if passed by a Court.">
+<content>
+(See section 235,248 and 255)
+To the Officer in charge of the Jail at ................................
+WHEREAS on the .......................day of ..................,..................(name of prisoner),the (1st, 2nd,3rd, as the case may be)prisoner in case No......................... of the Calendar for 20 ............, was convicted before me..........................(name and official designation)of the offence of ........................(mention the offence or offences concisely)under section .......................(or sections)of the Indian Penal Code (or of........................Act.......), and was sentenced to ....................(state the punishment fully and distinctly);
+This is to authorise and require you to receive the said ........................ (prisoner's name)into your custody in the said Jail, together with this warrant, and thereby carry the aforesaid sentence into execution according to law.
+Dated, this....................day of ................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="35" sno="35" value ="FORM NO. 35 : Warrant of imprisonment on failure to pay compensation.">
+<content>
+(See section 250)
+To the Officer in charge of the Jail at ....................................
+WHEREAS ..............................................(name and description) has brought against.................................................. (name and description of the accused person) the complaint that ...............................(mention it concisely)and the same has been dismissed on the ground that there was no reasonable ground for making the accusation against the said ............................. (name)and the order of dismissal awards payment by the said ..................................(name of complainant)of the sum of rupees...................... as compensation; and whereas the said sum gas not been paid and an order has been made for his simple imprisonment in Jail for the period of.................. days, unless the aforesaid sum be sooner paid.
+This is to authorise and require you to receive the said ...........................(name) into your custody, together this warrant, and him safely to keep in the said Jail for the said period of.......................(term of imprisonment), subject to the provisions of section 69 of the Indian Penal Code, unless the said sum be sooner paid, and on the receipt there of, forthwith to set him at liberty, returning this warrant with an endorsement certifying the manner of its execution.
+Dated, this .....................day of .............,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="36" sno="36" value ="FORM NO. 36 : Order requiring production in Court of Person in Prison for answering to charge of offence.">
+<content>
+(See section 267)
+To the Officer in charge of the Jail at .............................
+WHEREAS the attendance of ................................................... (name of prisoner) at present confined/detained in the above-mentioned prison, is required in this Court to answer to a charge of ...............................(state shortly the offence charged)or for the purpose of a proceeding (state shortly the particulars of the proceeding);
+You are hereby required to produce the said ................................ under safe and sure conduct before this Court ............ on the ..................... day of............., 20....., by ..........A.M. there to answer to the said charge, or for the purpose of the said proceeding, and after this Court has dispensed with his further attendance, cause him to be conveyed under safe and sure conduct back to the said prison.
+And you are further required to inform the said ........................... of the contents of this order and deliver to him the attached copy thereof.
+Dated, this ....................day of ..............,20......
+(Seal of the Court)
+(Signature)
+Countersigned.
+(Signature)
+(Seal)
+</content>
+</form>
+
+<form id="37" sno="37" value ="FORM NO. 37 : Order requiring production in Court of Person in Prison for giving evidence.">
+<content>
+(See section 267)
+To the Officer in charge of the Jail at .........................
+WHEREAS complaint has been made before this Court that .................................... (name of the accused) of................................... has committed to offence of ........................ (state offence concisely with time and place)and it appears that.......................................(name of prisoner)at present confined/ detained in the above-mentioned prison, is likely to give material evidence for the prosecution/ defence;
+You are hereby required to produce the said ............................ under safe and sure conduct before this Court at ........................ on the..............day of ..........., 20..... by .........A.M. there to give evidence in the matter now pending before this Court, and after this Court has dispensed with his further attendance, cause him to be conveyed under safe and sure conduct back to the said prison.
+And you are further required to inform the said ........................... of the contents of this order and deliver to him the attached copy thereof.
+Dated, this ............................ day of .......... 20....
+(Seal of the Court)
+(Signature)
+Countersigned.
+(Signature)
+(Seal)
+</content>
+</form>
+
+<form id="38" sno="38" value ="FORM NO. 38 : Warrant of commitment in certain cases of contempt when a fine is imposed.">
+<content>
+(See section 345)
+To the Officer in charge of the Jail at ...............................
+WHEREAS at a Court held before me on this day ......................................... (name and description of the offender) in the presence (or view)of the Court committed willful contempt;
+And whereas for such contempt the said ............................... (name of the offender) has been adjudged by the Court to pay a fine of rupees .................., or in default to suffer simple imprisonment for the period of .........................(state the number of months or days);
+This is to authorise and require you to receive the said .................................(name of offender) into your custody, together with this warrant, and him safely to keep in the said Jail for the said period of ......................(term of imprisonment),unless the said fine be sooner paid; and, on the receipt thereof, forthwith to set him at liberty, returning this warrant with an endorsement certifying the manner of its execution.
+Dated, this ......................day of .................,20....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="39" sno="39" value ="FORM NO. 39: Magistrate's or Judge's Warrant of Commitment of Witness refusing to answer or to produce Document.">
+<content> 
+(See section 349)
+To ................................................. (name and designation of officer of Court).
+WHEREAS .....................................(name and description), being summoned (or brought before this Court) as a witness and this day required to give evidence on an inquiry into an alleged offence, refused to answer a certain question (or certain questions) put to him touching the said alleged offence, and duly recorded, or having been called upon to produce any document has refused to produce such document, without alleging any just excuse for such refusal, and for his refusal has been ordered to be detained in custody for .......................(term of detention adjudged);
+This is to authorise and require you to take the said ...................................(name) into custody, and him safely to keep in your custody for the period of .................. days, unless in the meantime he shall consent to be examined and to answer the questions asked of him, or to produce the document called for from him, and on the last of the said days, or forthwith on such consent being known, to bring him before this Court to be dealt with according to law, returning this warrant with an endorsement certifying the manner of its execution.
+Dated, this ....................day of .........,20....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="40" sno="40" value ="FORM NO. 40 : Warrant of commitment under sentence of death. ">
+<content>
+(See section 366)
+To the Officer in charge of the Jail at ............................
+WHEREAS at the Session held before me on the ................day of..........., 20....., (name of prisoner)the (1st,2nd,3rd,as the case may be)prisoner in case No..................... of the Calendar for20....... at the said Session, was duly convicted of the offence of culpable homicide amounting to murder under section .....................of the Indian Penal Code, and sentenced to death. subject to the confirmation of the said sentence by the ....................Court of .......................;
+This is to authorise and require you to receive the said ..................(prisoner's name)into your custody in the said Jail, together with this warrant, and him there safely to keep until you shall receive the further warrant of order of this Court, carrying into effect the order of the said ...............Court.
+Dated, this .................... day of ..........., 20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="41" sno="41" value ="FORM NO. 41 : Warrant after a commutation of a sentence.">
+<content>
+See section 386, 413 and 416
+To the Officer in charge of the Jail at ...........................
+WHEREAS at a Session held on the ..........................., day of ...................,20....,....................................... (name of prisoner) the (1st,2nd,3rd,as the case may be)prisoner in case No. .................., of the Calendar for20........., at said Session, was convicted of the offence of ................. punishable under section................of the Indian Penal Code, and sentenced to ....................., and was thereupon committees to your custody; and whereas by the order of the ..............Court of .....................(a duplicate of which is hereunto annexed) the punishment adjudged by the said sentence has been commuted to the punishment of imprisonment for life;
+This is to authorise and require you safely to keep the said ................................. (prisoner's name) in your custody in the said jail, as by law is required, until he shall be delivered over by you to the proper authority and custody for the purpose of his undergoing the punishment of imprisonment for under the said order,
+or
+if the mitigated sentence is one of imprisonment, say, after the words "custody in the said jail", and there to carry into execution the punishment of imprisonment under the said order according to law",
+Dated, this..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="42" sno="42" value ="FORM NO. 42 : Warrant of execution of a sentence of death.">
+<content>
+See section 413 and 414
+To the Officer in charge of the Jail at .............................
+WHEREAS....................................... (name of prisoner) the (1st,2nd,3rd,as the case may be) prisoner in case No .................., of the Calendar for20........., at said Session, held before me on the .................day of ...............20....has been by a warrant of the Court, dated the day ................of................. committed to your custody under sentence of death; .....................and whereas the order of the High Court at ............................confirming the said sentence has been received by this Court;
+This is to authorise and require you to carry the said sentence into execution by causing the said...................... to be hanged by the neck until he be dead, at........................(time and place of execution) and to return this warrant to the Court with an endorsement certifying that the sentence has been executed.
+Dated, this..................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="43" sno="43" value ="FORM NO. 43 : Warrant to levy a fine by Attachment and Sale.">
+<content>
+(See section 421)
+To.........................................(name and designation of the police officer or other person or persons who is or are to execute the warrant).
+WHEREAS ..........................................(name and description of the offender) was on the ..................day of ............,20....,convicted before me of the offence of ................................(mention the offence concisely), and sentenced to pay a fine of rupees .................., and whereas the said............................(name), although required to pay the said fine, has not paid the same or any part thereof;
+This is to authorise and require you to attach any movable property belonging to the said .................................(name) which may be found within the district of .....................; and, if within..............................(state the number of days or hours allowed)next after such attachment the said sum shall not be paid or (forthwith) to sell the movable property attached, or so much thereof as shall be sufficient to satisfy the said fine, returning this warrant, with an endorsement certifying what you have done under it, immediately upon its execution.
+Dated, this...................day of ......................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="44" sno="44" value ="FORM NO. 44 : Warrant for recovery of fine.">
+<content>
+(See section 421)
+To the Collector of the district of ...........................
+WHEREAS ..........................................................(name, address and description of the offender)was on the ...............day of...........,20.....convicted before me of the offence of ........................ (mention the offence concisely), and sentence to pay a fine of rupees ...........; and
+WHEREAS the said .......................................(name), although required to pay the said fine, has not paid the same or any part thereof;
+You are hereby authorized and requested to realize the amount of the said fine as arrears of land revenue from the movable or immovable property, or both, of the said........................................(name)and to certify without delay what you may have done in pursuance of this order.
+Dated, this..................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="44A" sno="45" value ="FORM NO. 44A : Bond for appearance of offender released pending realisation of fine.">
+<content>
+[See section 424(1)(b)]
+WHEREAS I.....................................(name), inhabitant of......................(Place) have been sentenced to pay a fine of rupees ................. and in default of payment thereof to undergo imprisonment for ...................., and whereas the Court has been pleased to order my release on condition of my execution a bond for my appearance in the following date (or dates), namely:-
+I hereby bind myself to appear before the Court of ................. at .............O'clock on the following date (or dates) namely:-
+and in case of making default therein, I bind myself to forfeit to Government the sum of rupees.........................
+Dated, this..................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+
+WHERE A BOND WITH SURETIES IS TO BE EXECUTED, ADD-
+We do hereby declare ourselves sureties for the above-named that he will appear before the Court of ........................ on the following date(or dates) namely:-
+and, in case of making default therein, we bind ourselves jointly and severally to forfeit to Government the sum of rupees.............
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="45" sno="46" value ="FORM NO. 45 : Bond and bail-bond for attendance before officer in charge of police station or Court.">
+<content>
+[See section 436, 436A,]437, 437A 438(3) and 441
+I..........................................(name),of .........................................(Place) having been arrested or detained without warrant by the officer in charge of .................... police station (or having been brought before the Court of ........................) charged with the offence of ...................., and required to give security for my attendance before such officer of Court on condition that I shall attend such officer or Court on every day on which any investigation or trial is held with regard to such charge, and in case of making default herein, I bind myself to forfeit to Government the sum of rupees.....................
+Dated, this..................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+I hereby declare myself (or we jointly and severally declare ourselves and each of us) surety(or sureties) for the above said ..............................................(name) that he shall attend the officer in charge of ....................... police station or the Court of ........................ on every day on which ay investigation into the charge is made or any trial (on such charge is held that he shall be, and appear, before such Officer or Court for the purpose of such investigation or to answer the charge against him (as the case may be), and, in case if his making default herein, I hereby bind myself (or we hereby bind ourselves) to forfeit to Government the sum of rupees...............
+Dated, this..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="46" sno="47" value ="FORM NO. 46 : Warrant to discharge a person imprisoned on failure to give security.">
+<content>
+(See section 442)
+To the Officer in charge of the Jail at ............................
+(or other officer in whose custody the person is)
+WHEREAS ....................................................................(name and description of prisoner) was committed to your custody under warrant of this Court, dated, the .............,day of ................. and has since with his surety (or sureties) duly executed a bond under section 441 of the Code of Criminal Procedure.
+This is to authorise and require you forthwith to discharge the said ..................................... (name) from your custody, unless he is liable to be detained for some other matter.
+Dated, this..................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="47" sno="48" value ="FORMNO. 47 : Warrant of attachment to enforce a bond.">
+<content>
+(See section 446)
+To the Police officer in charge of the police station at ........................
+WHEREAS ......................................................................(name, description and address of person)has failed to appear on............................(mention the occasion)pursuant to his recognizance, and has by default forfeited to Government the sum of rupees ........................... (the penalty in the bond); and whereas the said .............................................. (name of person) has, on sue notice to him, failed to pay the said sum or show any sufficient cause why payment should not be enforced against him.
+This is to authorise and require you to attach any movable property of the said..........................................(name)that you may find within the district of ........................, by seizure and detention, and, so much of it as may be sufficient to realize the amount aforesaid, and to make return of what you have done under this warrant immediately upon its execution.
+Dated, this..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="48" sno="49" value ="FORM NO. 48 : Notice to surety in breach of a bond.">
+<content>
+(See section 446)
+To.............................., of .......................
+WHEREAS on the .......................day of ..................,20..., you became surety for ........................................... (name) of..........................(Place) that he should appear before this Court on the .............. day of............, and bound yourself in default thereof to forfeit the sum of rupees......................................... Government; and whereas the said ....................................... (name) has failed to appear before this Court and by reason of such ................. default you have forfeited the aforesaid sum of rupees .................
+You are hereby required to pay the said penalty or show cause, within ............. days from this date, why payment of the said sum should not be enforced against you.
+Dated, this..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="49" sno="50" value ="FORM NO. 49 : Notice to surety of forfeiture of bond for good behaviour.">
+<content>
+(See section 446)
+To..........................., of...................
+WHEREAS on the .....................day of ...............20....., by became surety by a bond for......................................................................................(name) of....................(Place) that he would be of good behaviour for the period of ......... and bound yourself in default thereof forfeit the sum of rupees ...............to Government; and whereas the said.......................................(name) has been convicted of the offence of.................................(mention the offence concisely)committed since you became such surety, whereby your security bond has become forfeited;
+You are hereby required to pay the said penalty of rupees .................. or to show cause within................. days why it should not be paid.
+Dated, this ..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="50" sno="51" value ="FORM No. 50 : Warrant of attachment against a surety.">
+<content>
+(See section 446)
+To........................,of.....................
+WHEREAS ..................................................................(name, description and address) has bound himself as surety for the appearance of................................(mention the condition of the bond)and the said ..................................(name) has made default, and thereby forfeited to Government the sum of rupees ................(the penalty in the bond.)
+This is to authorise and require you to attach any movable property of the said ............................. (name)which you may find within the district of ...................,less by seizure and detention; and, if the said amount be not paid within .............days, to sell the property so attached, or so much of it as may be sufficient to realize the amount aforesaid, and make return of what you have done under this warrant immediately upon its execution.
+Dated, this..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="51" sno="52" value ="FORM NO. 51 : Warrant of commitment of the surety of an accused person admitted to bail.">
+<content>
+(Seesection446)
+To the Superintendent(or keeper) of the Jail at ...........................
+WHEREAS .......................................................... (name and description of surety) has bound himself as a surety for the appearance of.............................(state the condition of the bond) and the said.....................................................(name) has therein made default whereby the penalty mentioned in the said bond has been forfeited to Government; and whereas the said ..................................(name of surety)ha, on sue notice to hi, failed to pay the sum or show any sufficient cause why payment should not be enforced against him, and the same cannot be recovered by attachment and sale of his movable property, and an order has been made for his imprisonment in the Civil Jail for(specify the period);
+This is to authorise and require you, the said Superintendent (or Keeper) to receive the said........................................................(name) into your custody with this warrant and to keep him safely in the said certifying the manner of its execution.
+Dated, this ..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="52" sno="53" value ="FORM NO. 52 : Notice to the principal of forfeiture of bond to keep the peace.">
+<content>
+(See section 446)
+To..................................................................(name, description and address)
+WHEREAS on the ..................day of .........,20....., you entered into a bond not to commit, etc. (as in the bond), and proof of the forfeiture of the same has been given before me and duly recorded;
+You are hereby called upon to pay the said penalty of rupees............ or to show cause before me within.............. days why payment of the same should not be enforced against you.
+Dated, this ..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="53" sno="54" value ="FORM No. 53 :Warrant to attach the property of the principal on breach of a bond to keep the peace.">
+<content>
+(See section 446)
+To.............................................................................(name and designation of the police officer) at the police station of .........................
+WHEREAS .....................................................(name and description) did, on the .................. day of..............,20..... enter into a bond for the sum of rupees ................................ binding himself not to commit a breach of the peace, etc. (as in the bond),and proof of the forfeiture of the said bond has been given before me and duly recorded; and whereas notice has been given to the said ..............................................(name) calling upon him to show cause why the said sum should not be paid, and he has failed to do so or to pay the said sum;
+This is to authorise and require you to attach by seizure movable property belonging to the said...................................(name) to the value of rupees..................., which you may find within the district of ..................,and, if the said sum be not paid within ............ to sell the property so attached, or so much of it as may be sufficient to realize the same; and to make return of what you have done under this warrant immediately upon its execution.
+Dated, this..................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="54" sno="55" value ="FORM NO. 54 : Warrant of imprisonment on breach of a bond to keep the peace.">
+<content>
+(See section 446)
+To the Superintendent (or Keeper) of the civil jail at .......................
+WHEREAS proof has been given before me and duly recorded that ....................................................................... (name and description).has committed a breach of the bond entered into by him to keep the peace, whereby he has forfeited to Government the sum of rupees ........................ and whereas the said..................................................(name) has failed to pay the said sum or to show cause why the said sum should not be paid, although duly called upon to do so, and payment thereof cannot be enforced by attachment of his movable property, and an order has been made for the imprisonment of the said .............................................................(name) in the civil Jail for the period of .................................(term of imprisonment);
+This is to authorise and require you, the said Superintendent (or Keeper) of the said Civil Jail to receive the said ...........................................(name) into your custody, together with this warrant, and to keep him safely in the said jail for the said period of........................... (term of imprisonment)and to return this warrant with an endorsement certifying the manner of its execution.
+Dated, this..................day of ..................,20.......
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="55" sno="56" value ="FORM NO. 55 : Warrant of attachment and sale on forfeiture of bond for good behaviour.">
+<content>
+(See section 446)
+To the Police Officer in charge of the police station at .........................
+WHEREAS ........................................................(name, description and address) did, on the ............... day of............20.... give security by bond in the sum of rupees ................. for the good behaviour of..........................................(name etc., of the principal), and proof has been given before me and duly recorded of the commission by the said ............................... (name) of the offence of ..............whereby the said bond has been forfeited; and whereas notice has been given to the said .................................. (name) calling upon him to show cause why the aid sum should not be paid, and he has failed to do so or to pay the said sum;
+This is to authorise and requiring you to attach by seizure movable property belonging to the said................................(name) to the value of rupees .......... which you may find within the district of ................., and if the said sum be not paid within ........., to sell the property so attached, or so much of it as may be sufficient to realise the same, and to make return of what you have done under this warrant immediately upon its execution.
+Dated, this..................day of ..................,20........
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+
+<form id="56" sno="57" value ="FORM NO. 56 : Warrant of imprisonment on forfeiture of bond for good behaviour.">
+<content>
+(Seesection446)
+To the Superintendent (or Keeper) of the civil jail at .................
+WHEREAS ....................................................................(name, description and address) did, on the.................. day of.........,20....., give security by bond in the sum of rupees ................. for the good behaviour of...............................................(name, etc., of the principal) and proof of the breach of the said bond has been given before me and duly recorded, whereby the said........................................(name) has forfeited to Government the sum of rupees ................., and whereas he has foiled to pay the said sum or to show cause why the said sum should not be paid although duly called upon to do so, and payment thereof cannot be enforced by attachment of has movable property and an order had been made for the imprisonment of the said .............................................. (name) in the civil jail for the period of ..................(term of imprisonment)
+This is to authorise and require you, the Superintendent (or Keeper) to receive the said...........................................(name) into your custody, together with this warrant, and to keep him safely in the said Jail for the period of ................................(term of imprisonment), returning this warrant with an endorsement certifying the manner of its execution.
+Dated, this..................day of ..................,20.....
+(Seal of the Court)
+(Signature)
+</content>
+</form>
+</acts>

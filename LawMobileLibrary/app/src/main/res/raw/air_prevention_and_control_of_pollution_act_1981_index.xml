@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>Chapter I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>Chapter II : CENTRAL AND STATE BOARDS FOR THE PREVENTION AND CONTROL OF AIR POLLUTION.
+Sec. 3 - 15.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>Chapter III : POWERS AND FUNCTIONS OF BOARDS.
+Sec. 16 - 18.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>Chapter IV : PREVENTION AND CONTROL OF AIR POLLUTION.
+Sec. 19 - 31A.
+</content>
+</part>
+
+<part id="5" sno="5">
+<content>Chapter V : FUND, ACCOUNTS AND AUDIT.
+Sec. 32 - 36.
+</content>
+</part>
+
+<part id="6" sno="6">
+<content>Chapter VI : PENALTIES AND PROCEDURE.
+Sec. 37 - 46.
+</content>
+</part>
+
+<part id="7" sno="7">
+<content>Chapter VII : MISCELLANIOUS.
+Sec. 47 - 54.
+</content>
+</part>
+</acts>

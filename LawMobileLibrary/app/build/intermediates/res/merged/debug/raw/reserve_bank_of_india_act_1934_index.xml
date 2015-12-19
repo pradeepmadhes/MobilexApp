@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : Preliminary.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : Incorporation, Capital, Management And Business
+Sec. 3 - 19.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : Central Banking Functions.
+Sec. 20 - 45.
+</content>
+</part>
+
+<part id="3A" sno="4">
+<content>CHAPTER IIIA : Collection And Furnishing Of Credit Information.
+Sec. 45A - 45G.
+</content>
+</part>
+
+<part id="3B" sno="5">
+<content>CHAPTER IIIB : Provisions Relating To Non-Banking Institutions Receiving Deposits And Financial Institutions.
+Sec. 45H - 45QB.
+</content>
+</part>
+
+<part id="3C" sno="6">
+<content>CHAPTER IIIC : Prohibition Of Acceptance Of Deposits By Unincorporated Bodies.
+Sec. 45R - 45T.
+</content>
+</part>
+
+<part id="3D" sno="7">
+<content>CHAPTER IIID : REGULATION OF TRANSACTIONS IN DERIVATIVES, MONEY MARKET INSTRUMENTS, SECURITIES, ETC.
+Sec. 45U - 45X.
+</content>
+</part>
+
+<part id="4" sno="8">
+<content>CHAPTER IV : General Provisions
+Sec. 46 - 58A.
+</content>
+</part>
+
+<part id="5" sno="9">
+<content>CHAPTER V : Penalties
+Sec. 58B - 58G.
+</content>
+</part>
+</acts>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+    <LinearLayout 
+    	android:orientation="horizontal"
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content">
+  
+            <Button
+	    android:id="@+id/btn_prev"
+	    android:layout_height="wrap_content" 
+	    android:layout_width="wrap_content"     
+	    android:text="Prev"
+	    />
+            
+	    <EditText  
+	    android:id="@+id/edt_section_id" 
+	    android:layout_height="wrap_content" 
+	    android:layout_width="wrap_content"     
+	    android:lines="1"
+	    android:layout_weight="1.0" android:hint="Enter The Section"/>
+	    
+	    <Button
+	    android:id="@+id/btn_next"
+	    android:layout_height="wrap_content" 
+	    android:layout_width="wrap_content"     
+	    android:text="Next"
+	    />
+	    
+    </LinearLayout>
+    
+	<WebView  
+		android:id="@+id/webview_section_content_view"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="fill_parent" 
+	    android:layout_weight="1.0"   
+	/>
+</LinearLayout>

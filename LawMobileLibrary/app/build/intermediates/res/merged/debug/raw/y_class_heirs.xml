@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<class sno="1">
+<content>Son;#&lt;br&gt;
+daughter;#&lt;br&gt;
+widow;#&lt;br&gt;
+mother;#&lt;br&gt;
+son of a pre-deceased son;#&lt;br&gt;
+daughter of a pre-deceased son;#&lt;br&gt;
+son of a pre-deceased daughter;#&lt;br&gt;
+daughter of a pre-deceased daughter;#&lt;br&gt;
+widow of a pre-deceased son;#&lt;br&gt;
+son of a pre-deceased son of a pre-deceased son;#&lt;br&gt;
+daughter of a pre-deceased son of a pre-deceased son;#&lt;br&gt;
+widow of a pre-deceased son of a pre-deceased son;#&lt;br&gt;
+son of a pre-deceased daughter of a pre-deceased daughter;#&lt;br&gt;
+daughter of a pre-deceased daughter of a pre-deceased daughter;#&lt;br&gt;
+daughter of a pre-deceased son of a pre-deceased daughter;#&lt;br&gt;
+daughter of a pre-deceased daughter of a pre-deceased son.
+</content>
+</class>
+
+<class sno="2">
+<content>I. Father. #&lt;br&gt;
+II. (1) Son's daughter's son,&lt;br&gt;
+(2) son's daughter's daughter,&lt;br&gt;
+(3) brother,&lt;br&gt;
+(4) sister. #&lt;br&gt;
+III. (1) Daughter's son's son,&lt;br&gt;
+(2) daughter's son's daughter,&lt;br&gt;
+(3) daughter's daughter's son,&lt;br&gt;
+(4) daughter's daughter's daughter.#&lt;br&gt;
+IV. (1) Brother's son,&lt;br&gt;
+(2) sister's son,&lt;br&gt;
+(3) brother's daughter,&lt;br&gt;
+(4) sister's daughter.; #&lt;br&gt;
+V. Father's father; father's mother. #&lt;br&gt;
+VI. Father's widow; brother's widow. #&lt;br&gt;
+VII. Father's brother; father's sister. #&lt;br&gt;
+VIII. Mother's father; mother's mother. #&lt;br&gt;
+IX. Mother's brother; mother's sister.&lt;br&gt;
+Explanation.-In this Schedule, references to a brother or sister do not include references to a brother or sister by uterine blood.
+</content>
+</class>
+</acts>

@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:2:1-270:12
+	package
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:3:11-60
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:4:11-35
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:7:5-76
+	android:targetSdkVersion
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:7:43-74
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:7:15-42
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:9:22-66
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:11:22-74
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:12:22-66
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:15:22-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:17:22-79
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:21:22-70
+application
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:23:5-269:19
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:23:18-50
+	android:icon
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:23:51-83
+activity#com.mobilex.lawmobilelibrary.activities.SplashActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:26:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:25:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.mobilex.lawmobilelibrary.activities.HomeActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:33:19-46
+intent-filter#android.intent.action.VIEW+android.intent.category.LAUNCHER
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.VIEW
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:36:25-66
+activity#com.mobilex.lawmobilelibrary.activities.ActsActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:42:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:41:19-46
+activity#com.mobilex.lawmobilelibrary.activities.SubActsActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:50:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:49:19-49
+activity#com.mobilex.lawmobilelibrary.activities.MenuSearchActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:57:9-63:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:58:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:57:19-52
+activity#com.mobilex.lawmobilelibrary.activities.MenuRuleSearchActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:65:9-71:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:66:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:65:19-56
+activity#com.mobilex.lawmobilelibrary.activities.SectionWordListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:73:9-79:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:74:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:73:19-57
+activity#com.mobilex.lawmobilelibrary.activities.OrderWordListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:81:9-87:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:82:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:81:19-55
+activity#com.mobilex.lawmobilelibrary.activities.RuleWordListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:89:9-95:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:90:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:89:19-54
+activity#com.mobilex.lawmobilelibrary.activities.SectionIDActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:97:9-103:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:98:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:97:19-51
+activity#com.mobilex.lawmobilelibrary.activities.SectionWordActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:105:9-111:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:106:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:105:19-53
+activity#com.mobilex.lawmobilelibrary.activities.SectionListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:113:9-119:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:114:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:113:19-53
+activity#com.mobilex.lawmobilelibrary.activities.IndexActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:121:9-127:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:122:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:121:19-47
+activity#com.mobilex.lawmobilelibrary.activities.IndexListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:129:10-135:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:130:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:129:20-52
+activity#com.mobilex.lawmobilelibrary.activities.IndexIDActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:137:9-143:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:138:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:137:19-49
+activity#com.mobilex.lawmobilelibrary.activities.OffenceActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:145:9-151:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:146:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:145:19-49
+activity#com.mobilex.lawmobilelibrary.activities.OffenceWordActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:153:9-154:20
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:153:19-55
+activity#com.mobilex.lawmobilelibrary.activities.OffenceListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:156:9-157:20
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:156:19-55
+activity#com.mobilex.lawmobilelibrary.activities.ContentActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:159:9-165:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:160:19-51
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:159:19-49
+activity#com.mobilex.lawmobilelibrary.activities.UserActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:167:9-173:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:168:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:167:19-49
+activity#com.mobilex.lawmobilelibrary.activities.DemoActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:175:10-181:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:176:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:175:20-50
+activity#com.mobilex.lawmobilelibrary.activities.OrderIDActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:183:9-189:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:184:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:183:19-52
+activity#com.mobilex.lawmobilelibrary.activities.OrderWordActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:191:9-197:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:192:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:191:19-54
+activity#com.mobilex.lawmobilelibrary.activities.OrderListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:199:9-205:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:200:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:199:19-54
+activity#com.mobilex.lawmobilelibrary.activities.RuleIDActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:207:9-213:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:208:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:207:19-51
+activity#com.mobilex.lawmobilelibrary.activities.RuleWordActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:215:9-221:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:216:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:215:19-53
+activity#com.mobilex.lawmobilelibrary.activities.RuleListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:223:9-229:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:224:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:223:19-53
+activity#com.mobilex.lawmobilelibrary.activities.ScheduleActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:231:9-237:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:232:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:231:19-53
+activity#com.mobilex.lawmobilelibrary.activities.FormsActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:239:9-245:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:240:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:239:19-50
+activity#com.mobilex.lawmobilelibrary.activities.ScheduleListActivity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:247:9-253:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:248:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:247:19-57
+activity#com.mobilex.lawmobilelibrary.activities.ScheduleList2Activity
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:255:9-261:20
+	android:label
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:256:19-53
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:255:19-58
+receiver#com.mobilex.lawmobilelibrary.service.SmsReceiver
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:263:9-268:20
+	android:enabled
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:264:19-43
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:263:19-84
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:265:13-267:29
+	android:priority
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:265:28-52
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:266:17-83
+	android:name
+		ADDED from D:\Android\Android_Studio_WS\MobilexApp\LawMobileLibrary\app\src\main\AndroidManifest.xml:266:25-81

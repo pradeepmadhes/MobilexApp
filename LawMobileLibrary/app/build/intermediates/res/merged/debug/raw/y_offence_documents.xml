@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<offence sno="1" value="1 : Driving without holding an effective driving licence."> 
+<content>S.3r/w S. 181 M.V.A.
+3months or Rs. 500 or both.
+</content>
+</offence>
+
+<offence sno="2" value="2 : Driving an uninsured vehicle."> 
+<content>S. 146 r/w S.196 M.V.A.
+3 months or Rs. 1,000 or both.
+</content>
+</offence>
+
+<offence sno="3" value="3 : Owner or person in-charge of a vehicle permitting an unlicensed person or an under-aged person to drive it (Parents/guardians/ friends permitting minor to drive vehicle)."> 
+<content>S.5r/w S. 180 M.V.A.
+3months or Rs. 1000 or both.
+</content>
+</offence>
+
+<offence sno="4" value="4 : Owner or driver or person in-charge of  a motor vehicle, on demand by a registering authority, or any other officer or the Motor Vehicles Department failing to produce (i) the certificate of insurance of the vehicle; and where the vehicle is a transport vehicle (ii) certificate of fitness, and (iii) permit."> 
+<content>S. 130(3) r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="5" value="5 : Any person driving a motor vehicle in any public place, on demand by a police officer in uniform or officers of Motor Vehicles Department, failing to produce."> 
+<content>(a) the certificate of insurance;
+(b) the certificate of registration;
+(c) the driving licence; and in case of a transport vehicle
+(d) certificate of fitness, and
+(e) the permit
+S. 158 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="6" value="6 : Any person driving or owner permitting to drive vehicle without effective registration or displaying false registration marks in any public or in any other place (Using unregistered vehicle or displaying Applied For )."> 
+<content>S. 39(1) r/w S.192(1) M.V.A. Upto Rs. 5,000 for first offence but not less than Rs. 2,000 .
+One year or upto Rs. 10,000 for second or subsequent offence but not less than Rs.5,000 or both.
+</content>
+</offence>
+
+<offence sno="7" value="7 : Any person driving or permitting to drive a vehicle without the necessary permit for the route or area in which or for the purpose for which it is being used."> 
+<content>S. 66(1) r/w S.192-A M.V.A.
+Upto Rs. 5,000 for first offence but not less than Rs. 2,000.
+Upto one year but not being less than 3 months, upto Rs.10,000 for second or subsequent offence but not less than Rs.5,000.
+</content>
+</offence>
+
+<offence sno="8" value="8 : Holding of a driving licence permitting it to be used by other person."> 
+<content>S. 6(2)r/w S. 177 M.V.A.
+Rs. 100 for first offence.
+</content>
+</offence>
+
+<offence sno="9" value="9 : (i) Disqualified person driving a vehicle or (ii) applying for or obtaining a driving licence or (iii) seeking a licence without disclosing endorsements made on driving licence preciously held."> 
+<content>S. 23r/w S. 182(1) M.V.A.
+3 month or Rs. 500.
+</content>
+</offence>
+
+<offence sno="10" value="10 : (i) Disqualified conductor acting as conductor or (ii) applying for or obtaining a conductors licence or (iii) seeking a licence without disclosing endorsements  made on licence previously held."> 
+<content>S. 36r/w S. 182 M.V.A.
+One month or Rs. 100 or both.
+</content>
+</offence>
+
+<offence sno="11" value="11 : Running driving school without a licence."> 
+<content>R. 24 C.M.V.R. r/w S. 177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence .
+</content>
+</offence>
+
+<offence sno="12" value="12 : Failure to intimate change of residence or place of business by owner of a vehicle within time prescribed"> 
+<content>S. 49 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence(However, State Government may prescribe different amounts having regard to period of delay).
+</content>
+</offence>
+
+<offence sno="13" value="13 : Failure to report to Registering Authority fact of transfer of vehicle within time prescribed."> 
+<content>S. 50 r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent.
+offence (However, State Government may prescribe different amounts having regard to period of delay) .
+</content>
+</offence>
+
+<offence sno="14" value="14 : Driver, in a public place, failing to produce his licence, on demand, to any police officer in uniform."> 
+<content>S. 130(1) r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="15" value="15 : Conductor, in any public place, failing to produce his licence, on demand, by any officer of the Motor Vehicles Department."> 
+<content>S. 130(2) r/w S.177 M.V.A.
+Rs. 100 for first offence .
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+</acts>

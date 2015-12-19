@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<offence sno="1" value="1 : Demanding excess fare by Auto rickshaw / Taxi."> 
+<content>R.21(23) of C.M.V.R. r/w S.177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="2" value="2 : Unauthorised alteration in vehicle (Including those facilitating its operation by a different type of fuel)."> 
+<content>S. 52 r/w S.191 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence (However, State Government may prescribe different amounts having regard to period of delay).
+</content>
+</offence>
+
+<offence sno="3" value="3 : When the driver or conductor of a motor vehicle is accused of any offence under the M.V.Act., the owner of such vehicle failing, on demand, by a police officer authorized to give information regarding the name and address of and the licence held by the driver or conductor."> 
+<content>S. 133 r/w S.187 M.V.A.
+3 months or Rs.500 for the first offence or both.
+6 months or Rs. 1,000 for subsequent offence or both.
+</content>
+</offence>
+
+<offence sno="4" value="4 : Any person engaging himself as an agent or canvasser in contravention of S. 93 or Rules made there under."> 
+<content>S. 93 r/w S. 193 M.V.A.
+Rs. 1,000 for first offence.
+6 months or Rs.2,000 for second or subsequent offence or both.
+</content>
+</offence>
+
+<offence sno="5" value="5 : Taking vehicle without authority"> 
+<content>S. 197 M.V.A.
+3 months or Rs. 500 or both.
+</content>
+</offence>
+
+<offence sno="6" value="6 : Unauthorized interference with vehicle."> 
+<content>S. 198 M.V.A.
+Rs. 100.
+</content>
+</offence>
+
+<offence sno="7" value="7 : Any importer or dealer selling, delivering or offering to sell or deliver a motor vehicle or trailer in such a condition or altered condition that its use in a public place would contravene Chapter VII M.V.A."> 
+<content>S. 191 M.V.A.
+Rs.500.
+</content>
+</offence>
+
+<offence sno="8" value="8 : Any person traveling in a stage carriage without ticket or pass, or not producing ticket or pass on requisition."> 
+<content>S. 124 r/w S. 178(1) M.V.A.
+Rs.500.
+</content>
+</offence>
+
+<offence sno="9" value="9 : Conductor of a stage carriage willfully or negligently failing to accept fare or issue ticket or supplied a ticket of a lesser value or Check in Inspector willfully or negligently failing or  refusing to check pass or ticket."> 
+<content>S. 178(2) M.V.A.
+Rs.500.
+</content>
+</offence>
+
+<offence sno="10" value="10 : Permit holder of contract carriage refusing to ply or to carry passengers:"> 
+<content>S. 178(3) M.V.A.
+(a) in the case of two-wheelers or three-wheelers.
+Rs.50.
+(b) in the case of others.
+Rs.200.
+</content>
+</offence>
+
+<offence sno="11" value="11 : Any person disobeying directions given by any person or authority empowered, or obstruction any person or authority in the discharge of his functions under the M.V.Act."> 
+<content>S. 179(1) M.V.A.
+Rs.500.
+</content>
+</offence>
+
+<offence sno="12" value="12 : Any passenger withholding the required information or giving false information."> 
+<content>S. 179(2) M.V.A.
+One month or Rs. 500 or both.
+</content>
+</offence>
+
+<offence sno="13" value="13 : When any person is injured or any property of a third party is damaged in a motor vehicle accident, the driver or person in- charge of the vehicle:"> 
+<content>(a) not providing medical aid to the victim of the accident.
+(b) Not giving the information regarding accident, etc., on demand by a police officer or at the nearest police station.
+(c) Not giving the information regarding accident to the insurer.
+S. 134 r/w S.187 M.V.A.
+3 months or Rs.500 for the first offence or both.
+6 months or Rs. 1,000 for subsequent offence or both.
+</content>
+</offence>
+
+<offence sno="14" value="14 : Plying a vehicle with registration mark of other State for more than 12 months."> 
+<content>S. 47 r/w S. 177 M.V.A.
+Rs. 100 for first offence.
+Rs. 300 for second or subsequent offence.
+</content>
+</offence>
+
+<offence sno="15" value="15 : Any manufacturer using sub-standard articles or process."> 
+<content>S. 109(3 ) r /w S.182-A of M.V.A.
+Rs.1,000 for first offence.
+Rs. 5,000 for second or subsequent offence.
+</content>
+</offence>
+</acts>

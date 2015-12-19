@@ -1,0 +1,3166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<classification id="109">
+    <punishment>Punishment : Same as for offence abetted</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="110">
+    <punishment>Punishment : Same as for offence abetted</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable</triable>
+</classification>
+
+<classification id="111">
+    <punishment>Punishment : Same as for offence intended to be abetted.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="113">
+    <punishment>Punishment : Same as for offence committed</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="114">
+    <punishment>Punishment : Same as for offence committed</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="115">    
+    <offenceclass>Offence :  Abetment of an offence, punishable with death or imprisonment for life, if the offence be not committed in consequence of the abetment.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable. </cognizable>
+    <bailable>Bailable or non-bailable : non-bailable</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable. </triable>   
+    <offenceclass>Offence :  If an act which causes harm be done in consequence of the abetment.</offenceclass>
+    <punishment>Punishment : Imprisonment for 14 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : non-bailable</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="116">   
+    <offenceclass>Offence :  Abetment of an offence, punishable with imprisonment, if the offence be not committed in consequence of the abetment.</offenceclass>
+    <punishment>Punishment : Imprisonment extending to a quarter part of the longest term provided for the offence or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable. </triable>    
+    <offenceclass>Offence :  If the abettor or the person abetted be a public servant whose duty it is to prevent the offence.</offenceclass>
+    <punishment>Punishment : Imprisonment extending to half of the longest term provided for the offence or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="117">
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="118">   
+    <offenceclass>Offence :  Concealing a design to commit an offence punishable with death or imprisonment for life, if the offence be committed.</offenceclass>
+    <punishment>Punishment :  Imprisonment for 7 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : non-bailable</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable. </triable>   
+    <offenceclass>Offence :  If the offence be not committed.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable :According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="119">   
+    <offenceclass>Offence :  A public servant concealing a design to commit an offence which it is his duty to prevent, if the offence be committed.</offenceclass>
+    <punishment>Punishment : Imprisonment extending to half of the longest term provided for the offence or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable. </cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable. </triable>    
+    <offenceclass>Offence :  If the offence be punishable with death or imprisonment for life.</offenceclass>
+    <punishment>Punishment : Imprisonment for 10 years</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable. </cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable. </triable>    
+    <offenceclass>Offence :  If the offence be not committed.</offenceclass>
+    <punishment>Punishment : Imprisonment extending to a quarter part of the longest term provided for the offence or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="120">   
+    <offenceclass>Offence :  Concealing a design to commit an offence punishable with imprisonment, if offence be committed</offenceclass>
+    <punishment>Punishment : Imprisonment extending to a quarter part of the longest term provided for the offence or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence abetted is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable. </triable>   
+    <offenceclass>Offence :  If offence be not committed</offenceclass>
+    <punishment>Punishment : Imprisonment extending to one-eighth part of the longest term provided for the Offence or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence abetted is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which offence abetted is triable.</triable>
+</classification>
+
+<classification id="120B">   
+    <offenceclass>Offence : Criminal conspiracy to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two  years or upwards.</offenceclass>
+    <punishment>Punishment : Same as for abetment of offence which is the object of the conspiracy.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as the offence which is the object of conspiracy is cognizable or non- cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as the offence which is the object of conspiracy is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which abetment of the offence which is the object of conspiracy is triable.</triable>   
+    <offenceclass>Offence :  Any other criminal conspiracy.</offenceclass>
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first Class</triable>
+</classification>
+
+<classification id="121">
+    <punishment>Punishment : Death, or imprisonment for life and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="121A">
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="122">
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="123">
+    <punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="124">
+    <punishment>Punishment : Imprisonmen for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="124A">
+    <punishment>Punishment : Imprisonment for life and fine, or imprisonment for 3 years and fine, or fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="125">
+    <punishment>Punishment : Imprisonment for life and fine, or imprisonment for 7 years and fine, or fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="126">
+    <punishment>Punishment : Imprisonment for 7 years and fine, and forfeiture of certain property.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="127">
+    <punishment>Punishment : Imprisonment for 7 years and fine, and forfeiture of certain property.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="128">
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="129">
+    <punishment>Punishment : Simple imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="130">
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="131">
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="132">
+    <punishment>Punishment : Death, or imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="133">
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="134">
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="135">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="136">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="137">
+    <punishment>Punishment : Fine of 500 rupees</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="138">
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="140">
+    <punishment>Punishment : Imprisonment for 3 months, or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="143">
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="144">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="145">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="147">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="148">
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the First Class.</triable>
+</classification>
+
+<classification id="149">
+    <punishment>Punishment : The same as for the offence</punishment>
+    <cognizable>Cognizable or non-cognizable : According as offence is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : According as offence is bailable or non-bailable.</bailable>
+    <triable>By what court triable : The Court by which the offence is triable.</triable>
+</classification>
+
+<classification id="150">
+    <punishment>Punishment : The same as for a member of such assembly, and for any offence committed by any member of such assembly.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : According as offence is bailable or non-bailable.</bailable>
+    <triable>By what court triable : The Court by which the offence is triable.</triable>
+</classification>
+
+<classification id="151">
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="152">
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="153">   
+    <offenceclass>Offence :  Wantonly giving provocation with intent to cause riot, if rioting be committed.</offenceclass>
+    <punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Any Magistrate</triable>   
+    <offenceclass>Offence :  If not committed</offenceclass>
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="153A">
+    <offenceclass>Offence :  Promoting enmity between classes</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class. </triable>  
+    <offenceclass>Offence :  Promoting enmity between classes in place of worship, etc.</offenceclass>
+    <punishment>Punishment : Imprisonment for 5 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="153B">  
+    <offenceclass>Offence :  Imputations, assertions prejudicial to national integration.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable> 
+    <offenceclass>Offence :  If committed in a place of public worship, etc.</offenceclass>
+    <punishment>Punishment : Imprisonment for 5 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="154">
+    <punishment>Punishment : Fine of 1,000 rupees</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="155">
+    <punishment>Punishment : Fine</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="156">
+    <punishment>Punishment : Fine</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="157">
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="158">
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="159">
+    <punishment>Punishment : Imprisonment for 2 years, or fine or both</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="160">
+    <punishment>Punishment : Imprisonment for one month, or fine of 100 rupees, or both</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="169">
+    <punishment>Punishment : Simple imprisonment for 2 years, or fine, or both, and confiscation of property, if purchased.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="170">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="171">
+    <punishment>Punishment : Imprisonment for 3 months, or fine up to 200 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="171E">
+    <punishment>Punishment : Imprisonment for 1 years, or fine, or both, or if treating only, fine only.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="171F">   
+    <punishment>Punishment : Imprisonment for one year, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class. </triable> 
+    <punishment>Punishment : Imprisonment for one year, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of thefirst class.</triable>
+</classification>
+
+<classification id="171G">
+    <punishment>Punishment : Fine</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="171H">
+    <punishment>Punishment : Fine of 500 rupees</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="171I">
+    <punishment>Punishment : Fine of 500 rupees</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="172">   
+    <offenceclass>Offence :  Absconding to avoid service of summons of other proceeding from a public servant.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 1 month, or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>   
+    <offenceclass>Offence :  If summons or notice require attendance in person, etc., in a Court of Justice.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine of 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="173">    
+    <offenceclass>Offence :  Preventing the service of the affixing of any summons of notice, or the removal of it when it has been affixed, or preventing a proclamation.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 1 months, or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Any Magistrate</triable>  
+    <offenceclass>Offence :  If summons, etc., require attendance in person, etc., in a Court of Justice.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="174">   
+    <offenceclass>Offence :  Not obeying a legal order to attend at a certain place in person or by agent, or departing therefrom without authority.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 1 month or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Any Magistrate</triable>   
+    <offenceclass>Offence :  If the order requires personal attendance, etc., in a Court of Justice.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="175">   
+    <offenceclass>Offence :  Internationally omitting to produce a document to a public servant by a person legally bound to produce or deliver such document.</offenceclass>
+     <punishment>Punishment : Simple imprisonment for 1 month or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : The court in which the offence is committed, subject to the provisions of Chapter XXVI; or, if not committed in a Court, any Magistrate.</triable>   
+    <offenceclass>Offence :  If the document is required to be produced in or delivered to a Court of Justice.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : The court in which the offence is committed, subject to the provisions of Chapter XXVI; or, if not committed in a Court, any Magistrate.</triable>
+</classification>
+
+<classification id="176">   
+    <offenceclass>Offence :  Intentionally omitting to give notice or information to a public servant by a person legally bound to give such notice or information.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 1 month or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Any Magistrate</triable>   
+    <offenceclass>Offence :  If the notice or information required respects the commission of an offence, etc.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Any Magistrate </triable>    
+    <offenceclass>Offence :  If the notice or information is required by an order passed under sub-section (1) of section 356 of this Code.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="177"> 
+    <offenceclass>Offence :  Knowingly furnishing false information to a public servant.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine or 1,000 rupees, or both. </punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate </triable>
+    <offenceclass>Offence :  If the information required respects the commission of an offence, etc.</offenceclass>
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="178">
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : The court in which the offence is committed, subject to the provisions of Chapter XXVI; or, if not committed in a Court, any Magistrate.</triable>
+</classification>
+
+<classification id="179">
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : The court in which the offence is committed, subject to the provisions of Chapter XXVI; or, if not committed in a Court, any Magistrate.</triable>
+</classification>
+
+<classification id="180">
+    <punishment>Punishment : Simple imprisonment for 3 months, or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : The court in which the offence is committed, subject to the provisions of Chapter XXVI; or, if not committed in a Court, any Magistrate.</triable>
+</classification>
+
+<classification id="181">
+    <punishment>Punishment:Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the First Class</triable>
+</classification>
+
+<classification id="182">
+    <punishment>Punishment : Imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="183">
+    <punishment>Punishment : Imprisonment for 6 months, or fine or 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="184">
+    <punishment>Punishment : Imprisonment for 1 month, or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="185">
+    <punishment>Punishment : Imprisonment for 1 month, or fine of 200 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="186">
+    <punishment>Punishment : Imprisonment for 3 months, or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="187">  
+    <offenceclass>Offence :  Omission to assist public servant when bound by law to give such assistance.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 1 month, or fine of 200 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Any Magistrate </triable>   
+    <offenceclass>Offence :  Wilfully neglecting to aid a public servant who demands aid in the execution of process, the prevention of offences, etc.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 6 month, or fine of 500 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="188"> 
+    <offenceclass>Offence :  Disobedience to an order lawfully-promulgated by a public servant, if such disobedience causes obstruction, annoyance or injury to persons lawfully employed.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 1 month, or fine of 200 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Any Magistrate </triable> 
+    <offenceclass>Offence :  If such disobedience causes danger to human life, health or safety, etc.</offenceclass>
+    <punishment>Punishment : Imprisonment for 6 month, or fine of 1000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="189">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="190">
+    <punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="193">  
+    <offenceclass>Offence :  Giving or fabricating false evidence in a judicial proceeding.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>   
+    <offenceclass>Offence :  Giving or fabricating false evidence in any other case.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="194">   
+    <offenceclass>Offence :  Giving or fabricating false evidence with intent to cause any person to be convicted of a capital offence.</offenceclass>
+    <punishment>Punishment : Imprisonment for life, or rigorous imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Non-bailable</bailable>
+    <triable>By what court triable : Court of Session</triable> 
+    <offenceclass>Offence :  If innocent person be thereby convicted and executed.</offenceclass>
+    <punishment>Punishment : Death, or as above.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session</triable>
+</classification>
+
+<classification id="195">
+    <punishment>Punishment : The same as for the offences.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="196">
+    <punishment>Punishment : The same as for giving or fabricating false evidence.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : According as offence of giving such evidence is bailable or non-bailable.</bailable>
+    <triable>By what court triable : Court by which offence of giving or fabricating false evidence is triable.</triable>
+</classification>
+
+<classification id="197">
+    <punishment>Punishment : The same as for giving or fabricating false evidence.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which offence of giving false evidence is triable.</triable>
+</classification>
+
+<classification id="198">
+    <punishment>Punishment : The same as for giving or fabricating false evidence.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which offence of giving false evidence is triable.</triable>
+</classification>
+
+<classification id="199">
+    <punishment>Punishment : The same as for giving or fabricating false evidence.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which offence of giving false evidence is triable.</triable>
+</classification>
+
+<classification id="200">
+    <punishment>Punishment : The same as for giving or fabricating false evidence.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which offence of giving false evidence is triable.</triable>
+</classification>
+
+<classification id="201">   
+    <offenceclass>Offence :  Causing disappearance of evidence of an offence committed, giving false information touching it to screen the offender, if a capital offence.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as the offence in relation to which disappearance of evidence is caused is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Court of Session.</triable> 
+    <offenceclass>Offence :  If punishable with imprisonment for life or imprisonment for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>  
+    <offenceclass>Offence :  If punishable with less than 10 years' imprisonment.</offenceclass>
+    <punishment>Punishment : Imprisonment for a quarter of the longest term provided for the offence, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court by which the offence is triable.</triable>
+</classification>
+
+<classification id="202">
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="203">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="204">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="205">
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="206">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="207">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="208">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="209">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="210">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="211">
+    <offenceclass>Offence :  False charge of offence made with intent to injure.</offenceclass>
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both. </punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class </triable> 
+    <offenceclass>Offence :  If offence charged be punishable with imprisonment for 7 years or upwards.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class </triable>  
+    <offenceclass>Offence :  If offence charged be capital or punishable with imprisonment for life.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="212">   
+    <offenceclass>Offence :  Harbouring an offender, if the offence be capital</offenceclass>
+    <punishment>Punishment : Imprisonment for 5 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+    <offenceclass>Offence :  If punishable with imprisonment for life or with imprisonment for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+    <offenceclass>Offence :  If punishable with imprisonment which may extend to 1 year and not to 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for a quarter of  the longest term, and of the description, provided for the offence, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="213"> 
+    <offenceclass>Offence :  Taking gift, etc., to screen an offender from punishment if the offence be capital.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+    <offenceclass>Offence :  If punishable with imprisonment for life or with imprisonment for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable> 
+    <offenceclass>Offence :  If punishable with imprisonment for less than 10 years</offenceclass>
+    <punishment>Punishment : Imprisonment for a quarter of  the longest term, and of the description, provided for the offence, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="214">
+    <offenceclass>Offence :  Offering gift or restoration of property in consideration of screening offender if the offence be capital.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+    <offenceclass>Offence :  If punishable with imprisonment for life or with imprisonment for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>  
+    <offenceclass>Offence :  If punishable with imprisonment for less than 10 years</offenceclass>
+    <punishment>Punishment : Imprisonment for a quarter of  the longest term, and of the description, provided for the offence, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="215">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="216">   
+    <offenceclass>Offence :  Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, if the offence be capital.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable> 
+    <offenceclass>Offence :  If punishable with imprisonment for life or with imprisonment for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years with or without fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>   
+    <offenceclass>Offence :  If punishable with imprisonment for 1 year and not for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for a quarter of  the longest term, and of the description, provided for the offence, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="216A">
+    <punishment>Punishment : Rigorous imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="217">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="218">
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="219">
+    <punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="220">
+    <punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="221">    
+    <offenceclass>Offence :  Intentional omission to apprehend on the part of a public servant bound by law to apprehend an offender, if the offence be capital.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years, with or without fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : According as the offence in relation to which such omission has been made is cognizable or non-cognizable.</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>    
+    <offenceclass>Offence :  If punishable with imprisonment for life or imprisonment for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years, with or without fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>    
+    <offenceclass>Offence :  If punishable with imprisonment for less than 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 2 years, with or without fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="222">  
+    <offenceclass>Offence :  Intentional omission to apprehend on the part of a public servant bound by law to apprehend person under sentence of a Court of Justice if under sentence of death.</offenceclass>
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 14 years, with or without fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+    <offenceclass>Offence :  If under sentence of imprisonment 10 years, or upwards.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years, with or without fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable> 
+    <offenceclass>Offence :  If under sentence of imprisonment for less than 10 years or lawfully committed to custody.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="223">
+    <punishment>Punishment : Simple imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="224">
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="225">  
+    <offenceclass>Offence :  Resistance or obstruction to the lawful apprehension of any person, or rescuing him from lawful custody.</offenceclass>
+    <punishment>Punishment : Imprisonment for 2 years, or fine, or both. </punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Bailable </bailable>
+    <triable>By what court triable : Any Magistrate. </triable> 
+    <offenceclass>Offence :  If charged with an offence punishable with imprisonment for life or imprisonment for 10 years.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+    <offenceclass>Offence :  If charged with a capital offence</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable> 
+    <offenceclass>Offence :  If the person is sentenced to imprisonment for life, or imprisonment for 10 years, or upwards.</offenceclass>
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+    <offenceclass>Offence :  If under sentence of death</offenceclass>
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="225A"> 
+    <offenceclass>Offence :  Omission to apprehend, or sufferance of escape on part of public servant, in cases not otherwise provided for :-
+    (a) in case of intentional omission or sufferance.</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable> 
+    <offenceclass>Offence :  (b) in case of negligent omission or sufferance.</offenceclass>
+    <punishment>Punishment : Simple imprisonment for 2 years, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="225B">
+    <punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="227">
+    <punishment>Punishment : Punishment of original sentence, or if part of punishment has been undergone, the residue.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : The Court by which the original Offence was triable.</triable>
+</classification>
+
+<classification id="228">
+    <punishment>Punishment : Simple imprisonment for 6 months, or fine of 1,000 rupees, or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : The Court in which the offence is committed subject to the provisions of Chapter XXVI</triable>
+</classification>
+
+<classification id="228A">      
+    <punishment>Punishment : Imprisonment for 2 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable :  Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>       
+    <punishment>Punishment : Imprisonment for 2 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="229">
+    <punishment>Punishment : Imprisonment for 2 years, or fine; or both.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="231">
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="232">
+    <punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="233">
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="234">
+    <punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="235"> 
+    <offenceclass>Offence :  Possession of instrument or material for the purpose of using the same for counterfeiting coin,</offenceclass>
+    <punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable </bailable>
+    <triable>By what court triable : Magistrate of the first class. </triable>  
+    <offenceclass>Offence :  If Indian coin.</offenceclass>
+    <punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+    <cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+    <bailable>Bailable or non-bailable : Non-bailable</bailable>
+    <triable>By what court triable : Court of Session.</triable>
+</classification>
+<classification id="236">
+
+
+
+
+<punishment>Punishment : The punishment provided for  abetting the counterfeiting of such coin within India.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Court of Session.</triable>
+
+
+</classification>
+<classification id="237">
+
+
+
+
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+
+
+
+</classification>
+<classification id="238">
+
+
+
+
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Court of Session.</triable>
+
+
+
+</classification>
+<classification id="239">
+
+
+
+
+<punishment>Punishment : Imprisonment for 5 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+Magistrate of the
+<triable>By what court triable : first class.</triable>
+
+
+</classification>
+<classification id="240">
+
+
+
+
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Court of Session.</triable>
+
+
+</classification>
+<classification id="241">
+
+
+
+
+<punishment>Punishment : Imprisonment for 2 years, fine, or 10 times the value of the coin counterfeited, or both.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Any Magistrate.</triable>
+
+
+
+</classification>
+<classification id="242">
+
+
+
+
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+</classification>
+<classification id="243">
+
+
+
+
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of thefirst class.</triable>
+
+
+</classification>
+<classification id="244">
+
+
+
+
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+</classification>
+<classification id="245">
+
+
+
+
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+</classification>
+<classification id="246">
+
+
+
+
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+</classification>
+<classification id="247">
+
+
+
+
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+</classification>
+<classification id="248">
+
+
+
+
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+</classification>
+<classification id="249">
+
+
+
+
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+
+
+
+
+
+
+
+</classification>
+<classification id="250">
+
+
+
+
+<punishment>Punishment : Imprisonment for 5 years and fine.</punishment>
+
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+
+<triable>By what court triable : Magistrate of the first class.</triable>
+
+
+</classification>
+
+<classification id="251">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="252">
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+ <triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="253">
+<punishment>Punishment : Imprisonment for 5 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="254">
+<punishment>Punishment : Imprisonment for 2 years or fine, or 10 times the value of the coin.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="255">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="256">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="257">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="258">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="259">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="260">
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="261">
+<punishment>Punishment : Imprisonment for 3 years, or fine or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="262">
+<punishment>Punishment : Imprisonment for 2 years or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="263">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="263A">
+<punishment>Punishment : Fine of 200 rupees</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="264">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="265">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="266">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="267">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="269">
+<punishment>Punishment : Imprisonment for 6 months or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="270">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="271">
+<punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="272">
+<punishment>Punishment : Imprisonment for 6 month, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="273">
+<punishment>Punishment : Imprisonment for 6 month, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="274">
+<punishment>Punishment : Imprisonment for 6 month, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="275">
+<punishment>Punishment : Imprisonment for 6 month, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="276">
+<punishment>Punishment : Imprisonment for 6 month, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="277">
+<punishment>Punishment : Imprisonment for 3 months, of fine of 500 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="278">
+<punishment>Punishment : Fine of 500 rupees</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="279">
+<punishment>Punishment : Imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="280">
+<punishment>Punishment : Imprisonment for 6 months, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="281">
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="282">
+<punishment>Punishment : Imprisonment for 6 months, or fine of 1,000 rupees, or, both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="283">
+<punishment>Punishment : Fine of 200 rupees</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="284">
+<punishment>Punishment : Imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="285">
+<punishment>Punishment : Imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="286">
+<punishment>Punishment : Imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="287">
+<punishment>Punishment : Imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="288">
+<punishment>Punishment : Imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="289">
+<punishment>Punishment : Imprisonment for 6 months or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="290">
+<punishment>Punishment : Fine of 200 rupees</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="291">
+<punishment>Punishment : Simple imprisonment for 6 months, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="292">
+<punishment>Punishment : On first conviction, with imprisonment for 2 years, and with fine of 2,000 rupees, and, in the event of second or subsequent conviction, with imprisonment for five years and with fine of 5,000 rupees.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable.</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="293">
+<punishment>Punishment : On first conviction, with imprisonment for 3 years, and with fine of 2,000 rupees, and in the event of second or subsequent conviction, with imprisonment for 7 years, and with fine of 5,000 rupees.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="294">
+<punishment>Punishment : Imprisonment for 3 months, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable.</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="294A">
+<offenceclass>Offence :  Keeping a lottery office</offenceclass>
+<punishment>Punishment : Imprisonment for 6 months, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable :  Bailable.</bailable>
+<triable>By what court triable : Any Magistrate. </triable>
+<offenceclass>Offence :  Publishing proposals relating to lotteries.</offenceclass>
+<punishment>Punishment : Fine of 1,000 rupees</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable.</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="295">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="295A">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="296">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="297">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="298">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="302">
+<punishment>Punishment : Death, or imprisonment for life, and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="303">
+<punishment>Punishment : Death</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="304">
+<offenceclass>Offence :  Culpable homicide not amounting to murder, if act by which the death is caused is done with intention of causing death, etc.</offenceclass>
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Court of Session. </triable>
+<offenceclass>Offence :  If act is done with knowledge that it is likely to cause death, but without any intention to cause death, etc.</offenceclass>
+<punishment>Punishment : Imprisonment for 10 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="304A">
+<punishment>Punishment : Imprisonment for 2 years or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="304B">
+<punishment>Punishment : Imprisonment of not less than seven years but which may extend to imprisonment for life.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="305">
+<punishment>Punishment : Death, or imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="306">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="307">
+<offenceclass>Offence :  Attempt to murder</offenceclass>
+<punishment>Punishment : Imprisonment for 10 years and fine. </punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Court of Session. </triable>
+<offenceclass>Offence :  If such act causes hurt to any person.</offenceclass>
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Court of Session. </triable>
+<offenceclass>Offence :  Attempt by life-convict to murder, if hurt is caused.</offenceclass>
+<punishment>Punishment : Death or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="308">
+<offenceclass>Offence :  Attempt to commit culpable homicide.</offenceclass>
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Court of Session. </triable>
+<offenceclass>Offence :  If such act causes hurt to any person.</offenceclass>
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="309">
+<punishment>Punishment : Simple imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="311">
+<punishment>Punishment : Imprisonment for life and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="312">
+<offenceclass>Offence :  Causing miscarriage</offenceclass>
+<punishment>Punishment : Imprisonment for 3 years, fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable :  Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+<offenceclass>Offence :  If the woman be quick with child</offenceclass>
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="313">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="314">
+<offenceclass>Offence :  Death caused by an act done with intent to cause miscarriage.</offenceclass>
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Court of Session. </triable>
+<offenceclass>Offence :  If act done without woman's consent.</offenceclass>
+<punishment>Punishment : Imprisonment for life, or as above.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="315">
+<punishment>Punishment : Imprisonment for 10 years or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="316">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="317">
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="318">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="323">
+<punishment>Punishment : Imprisonment for 1 year, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="324">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="325">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="326">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="327">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="328">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="329">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="330">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="331">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="332">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="333">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="334">
+<punishment>Punishment : Imprisonment for 1 month, or fine of 500 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="335">
+<punishment>Punishment : Imprisonment for 4 years, or fine of 2,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="336">
+<punishment>Punishment : Imprisonment for 3 months, or fine of 250 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="337">
+<punishment>Punishment : Imprisonment for 6 months, or fine of 500 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="338">
+<punishment>Punishment : Imprisonment for 2 years, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="341">
+<punishment>Punishment : Simple imprisonment for 1 month, or fine of 500 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="342">
+<punishment>Punishment : Imprisonment for 1 year, fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="343">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="344">
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="345">
+<punishment>Punishment : Imprisonment for 2 years, in addition to imprisonment under any other section.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="346">
+<punishment>Punishment : Imprisonment for 2 years, in addition to imprisonment under any other section.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="347">
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="348">
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="352">
+<punishment>Punishment : Imprisonment for 3 months, fine of 500 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="353">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="354">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="355">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="356">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="357">
+<punishment>Punishment : Imprisonment for 1 year, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="358">
+<punishment>Punishment : Simple imprisonment for one month, or fine of 200 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any magistrate</triable>
+</classification>
+
+<classification id="359">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="363A">
+<offenceclass>Offence :  Kidnapping or obtaining the custody of a minor in order that such minor may be employed or used for purposes of begging.</offenceclass>
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+<offenceclass>Offence :  Maiming a minor in order that such minor may be employed or used for purposes of begging.</offenceclass>
+<punishment>Punishment : Imprisonment for life and fine</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="364">
+<punishment>Punishment : Imprisonment for life, or rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="364A">
+<punishment>Punishment : Death, or imprisonment for life, and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="365">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="366">
+<punishment>Punishment : Imprisonment for 10 years fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="366A">
+<punishment>Punishment : Imprisonment for 10 years fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="366B">
+<punishment>Punishment : Imprisonment for 10 years fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="367">
+<punishment>Punishment : Imprisonment for 10 years fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="368">
+<punishment>Punishment : Punishment for kidnapping or abduction.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court by which the kidnapping or abduction is triable.</triable>
+</classification>
+
+<classification id="369">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="370">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="371">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="372">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable Court of Session.</bailable>
+</classification>
+
+<classification id="373">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="374">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+Any Magistrate.
+</classification>
+
+<classification id="376">
+<offenceclass>Offence :  Rape</offenceclass>
+<punishment>Punishment : Imprisonment for life or imprisonment for ten years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+<offenceclass>Offence :  Intercourse by a man with his wife not being under twelve years of age.</offenceclass>
+<punishment>Punishment : Imprisonment for two years or fine or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="376A">
+<punishment>Punishment : Imprisonment for two years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="376B">
+<punishment>Punishment : Imprisonment for five years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable (but no arrest  shall be made without a warrant or without an order of a Magistrate).</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="376C">
+<punishment>Punishment : Imprisonment for five years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable (but no arrest  shall be made without a warrant or without an order of a Magistrate).</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="376D">
+<punishment>Punishment : Imprisonment for five years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable (but no arrest  shall be made without a warrant or without an order of a Magistrate).</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="377">
+<punishment>Punishment : Imprisonment for five years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable (but no arrest  shall be made without a warrant or without an order of a Magistrate).</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate</triable>
+</classification>
+
+<classification id="379">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="380">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="381">
+<punishment>Punishment : Imprisonment for 7 years or fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="382">
+<punishment>Punishment : Rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="384">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="385">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="386">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="387">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="388">
+<offenceclass>Offence :  Extortion by threat of accusation of an offence punishable with death, imprisonment for life, or imprisonment for 10 years.</offenceclass>
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+<offenceclass>Offence :  If the offence threatened be an unnatural offence.</offenceclass>
+<punishment>Punishment : Imprisonment for life</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="389">
+<offenceclass>Offence :  Putting a person in fear of accusation of an offence punishable with death, imprisonment for life, or imprisonment for 10 years in order to commit extortion.</offenceclass>
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Bailable </bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+<offenceclass>Offence :  If the offence be an unnatural offence.</offenceclass>
+<punishment>Punishment : Imprisonment for life.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="392">
+<offenceclass>Offence :  Robbery</offenceclass>
+<punishment>Punishment : Rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+<offenceclass>Offence :  If committed on the highway between sunset and sunrise.</offenceclass>
+<punishment>Punishment : Rigorous imprisonment for 14 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="393">
+<punishment>Punishment : Rigorous imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="394">
+<punishment>Punishment : Imprisonment for life or Rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="395">
+<punishment>Punishment : Imprisonment for life or Rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="396">
+<punishment>Punishment : Death, imprisonment for life, or rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="397">
+<punishment>Punishment : Rigorous imprisonment for not less than 7 years.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="398">
+<punishment>Punishment : Rigorous imprisonment for not less than 7 years.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="399">
+<punishment>Punishment : Rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="400">
+<punishment>Punishment : Imprisonment for life, or rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="401">
+<punishment>Punishment : Rigorous imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="402">
+<punishment>Punishment : Rigorous imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="403">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="404">
+<offenceclass>Offence :  Dishonest misappropriation of property, knowing that it was in possession of a deceased person at his death, and that it has not since been in the possession of any person legally entitled to it.</offenceclass>
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+<bailable>Bailable or non-bailable : Bailable </bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+<offenceclass>Offence :  If by clerk or person employed by deceased.</offenceclass>
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="406">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="407">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="408">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="409">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class</triable>
+</classification>
+
+<classification id="411">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="412">
+<punishment>Punishment : Imprisonment for life, or rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="413">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="414">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="417">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="418">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="419">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="420">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="421">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="422">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="423">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="424">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="426">
+<punishment>Punishment : Imprisonment for 3 months, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="427">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="428">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="429">
+<punishment>Punishment : Imprisonment for 5 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="430">
+<punishment>Punishment : Imprisonment for 5 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="431">
+<punishment>Punishment : Imprisonment for 5 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="432">
+<punishment>Punishment : Imprisonment for 5 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="433">
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="434">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="435">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="436">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="437">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="438">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years, and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Ditto Court of Session.</triable>
+</classification>
+
+<classification id="439">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="440">
+<punishment>Punishment : Imprisonment for 5 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="447">
+<punishment>Punishment : Imprisonment for 3 months, or fine of 500 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="448">
+<punishment>Punishment : Imprisonment for one year, or fine of 1,000 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Ditto Any Magistrate.</triable>
+</classification>
+
+<classification id="449">
+<punishment>Punishment : Imprisonment for life, or rigorous imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="450">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="451">
+<offenceclass>Offence :  House-trespass in order to the commission of an offence punishable with imprisonment.</offenceclass>
+<punishment>Punishment : Imprisonment for 2 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+<offenceclass>Offence :  If the offence is theft</offenceclass>
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="452">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="453">
+<punishment>Punishment : Imprisonment for 2 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="454">
+<offenceclass>Offence :  Lurking house-trespass or house-breaking in order to the commission of an offence punishable with imprisonment.</offenceclass>
+<punishment>Punishment:Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Any Magistrate. </triable>
+<offenceclass>Offence :  If the offence be theft</offenceclass>
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="455">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Ditto Magistrate of the first class.</triable>
+</classification>
+
+<classification id="456">
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="457">
+<offenceclass>Offence :  Lurking house-trespass or house-breaking by night in order to the commission of an offence punishable with imprisonment.</offenceclass>
+<punishment>Punishment : Imprisonment for 5 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+<offenceclass>Offence :  If the offence is theft</offenceclass>
+<punishment>Punishment : Imprisonment for 14 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="458">
+<punishment>Punishment : Imprisonment for 14 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="459">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="460">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="461">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="462">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="465">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="466">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="467">
+<offenceclass>Offence :  Forgery of a valuable security, will, or authority to make or transfer any valuable security, or to receive any money, etc.</offenceclass>
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable </cognizable>
+<bailable>Bailable or non-bailable : Non-bailable </bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+<offenceclass>Offence :  When the valuable security is a promissory note of the Central Government.</offenceclass>
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="468">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="469">
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="471">
+<offenceclass>Offence :  Using as genuine a forged document which is known to be forged.</offenceclass>
+<punishment>Punishment : Punishment for forgery of such document.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Bailable </bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+<offenceclass>Offence :  When the forged document is a promissory note of the Central Government.</offenceclass>
+<punishment>Punishment : Punishment for forgery of such document.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="472">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="473">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="474">
+<offenceclass>Offence :  Having possession of a document, knowing it to be forged, with intent to use it as genuine; if the document is one of the description mentioned in section 466 of the Indian Penal Code.</offenceclass>
+<punishment>Punishment : Imprisonment for 7 years and fine. </punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable </cognizable>
+<bailable>Bailable or non-bailable : Bailable </bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+<offenceclass>Offence :  If the document is one of the description mentioned in section 467 of the Indian Penal Code.</offenceclass>
+<punishment>Punishment : Imprisonment for life, or imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+</classification>
+
+<classification id="475">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+</classification>
+
+<classification id="476">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+</classification>
+
+<classification id="477">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="477A">
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class. </triable>
+</classification>
+
+<classification id="482">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="483">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="484">
+<punishment>Punishment : Imprisonment for 3 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="485">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="486">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="487">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="488">
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="489">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="489A">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="489B">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="489C">
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both .</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="489D">
+<punishment>Punishment : Imprisonment for life, or imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+</classification>
+
+<classification id="489E">
+<offenceclass>Offence :  Making or using documents resembling currency-notes or bank-notes.</offenceclass>
+<punishment>Punishment : Fine of 100 rupees</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable> 
+<triable>By what court triable : Any Magistrate.</triable>
+<offenceclass>Offence :  On refusal to disclose the name and address of the printer.</offenceclass>
+<punishment>Punishment : Fine of 200 rupees.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="491">
+<punishment>Punishment : Imprisonment for 3 months, or fine of 200 rupees or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="493">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="494">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="495">
+<punishment>Punishment : Imprisonment for 10 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="496">
+<punishment>Punishment : Imprisonment for 7 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="497">
+<punishment>Punishment : Imprisonment for 5 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="498">
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="498A">
+<punishment>Punishment : Imprisonment for three years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable if information relating to the commission of the offence is given to an officer in charge of a police station by the person aggrieved by the offence or by any person related to her by blood, marriage or adoption or if there is no such relative, by any public servant belonging to such class or category as may be notified by the State Government in this behalf</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="500">
+<offenceclass>Offence :  Defamation against the President or the Vice-President or the Governor of a State or Administrator of a Union territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor.</offenceclass>
+<punishment>Punishment : Simple Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session</triable>
+<offenceclass>Offence :  Defamation in any other case</offenceclass>
+<punishment>Punishment : Simple Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="501">
+<offenceclass>Offence :  (a) Printing or engraving matter knowing it to be defamatory against the President of the Vice-President or the Governor of a State or Administrator of a Union territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor.</offenceclass>
+<punishment>Punishment : Simple Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+<offenceclass>Offence :  (b) Printing or engraving matter knowing it to be defamatory, in any other case.</offenceclass>
+<punishment>Punishment : Simple Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="502">
+<offenceclass>Offence :  (a) Sale of printed or engraved substance containing defamatory matter, knowing it to contain such matter against the President or the Vice-President or the Governor of a State or Administrator of a Union territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor.</offenceclass>
+<punishment>Punishment : Simple Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Court of Session.</triable>
+<offenceclass>Offence :  (b) Sale of printed or engraved substance containing defamatory matter, knowing it to contain such matter in any other case.</offenceclass>
+<punishment>Punishment : Simple imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+<classification id="504">
+<punishment>Punishment : Insult intended to provoke breach of the peace. Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="505">
+<offenceclass>Offence :  False statement. rumour, etc., circulated with intent to cause mutiny or offence against the public peace.</offenceclass>
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate. </triable>
+<offenceclass>Offence :  False statement, rumour, etc., with intent to create enmity, hatred or ill-will between different classes.</offenceclass>
+<punishment>Punishment : Imprisonment for 3 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable :  Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate. </triable>
+<offenceclass>Offence :  False statement, rumour, etc., made in place of worship etc., with intent to create enmity, hatred or ill-will.</offenceclass>
+<punishment>Punishment : Imprisonment for 5 years and fine.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="506">
+<offenceclass>Offence :  Criminal intimidation</offenceclass>
+<punishment>Punishment : Imprisonment for 2 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable :  Bailable</bailable>
+<triable>By what court triable : Any Magistrate. </triable>
+<offenceclass>Offence :  If threat be to cause death or grievous hurt, etc.</offenceclass>
+<punishment>Punishment : Imprisonment for 7 years, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Non-bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="507">
+<punishment>Punishment : Imprisonment for 2 years, in addition to the punishment under above section.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Magistrate of the first class.</triable>
+</classification>
+
+<classification id="508">
+<punishment>Punishment : Imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="509">
+<punishment>Punishment : Simple imprisonment for 1 year, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="510">
+<punishment>Punishment : Simple imprisonment for 24 hours, or fine of 10 rupees, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : Non-cognizable</cognizable>
+<bailable>Bailable or non-bailable : Bailable</bailable>
+<triable>By what court triable : Any Magistrate.</triable>
+</classification>
+
+<classification id="511">
+<punishment>Punishment : Imprisonment for life or imprisonment not exceeding half of the longest term provided for the offence, or fine, or both.</punishment>
+<cognizable>Cognizable or non-cognizable : According as the offence is cognizable or non-cognizable.</cognizable>
+<bailable>Bailable or non-bailable : According as the offence attempted by the offender is bailable or not.</bailable>
+<triable>By what court triable : The Court by which the offence attempted is triable.</triable>
+</classification>
+</acts>

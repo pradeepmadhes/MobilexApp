@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <EditText android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textPersonName" android:id="@+id/edt_user_name" android:hint="Your Name">
+        <requestFocus></requestFocus>
+    </EditText>
+    <EditText android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textEmailAddress" android:id="@+id/edt_mail_id" android:hint="Mail Id"></EditText>
+    <EditText android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="phone" android:id="@+id/edt_phone_number" android:hint="Mobile Number (10 Digit only)"></EditText>
+   
+    
+    <CheckBox android:id = "@+id/chk_login"   
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="If you marketing agent"
+    android:textSize="16dip" />    
+                    
+    <TextView android:id="@+id/txt_title" android:layout_width="fill_parent"
+    android:gravity="center_vertical" android:textSize="20px"
+    android:textColor="#ffffff" android:layout_alignParentRight="true"
+    android:text="Admin Login" android:background="#696969"
+    android:layout_height="wrap_content" android:layout_alignParentTop="true"
+    android:padding="9dip" android:layout_margin="5dip" />
+   
+                    
+    <EditText android:id            = "@+id/edit_username" 
+              android:layout_width  = "fill_parent"
+              android:layout_height = "wrap_content"
+              android:hint          = "Username" />
+
+    <EditText android:id            = "@+id/edit_password" 
+              android:layout_width  = "fill_parent"
+              android:layout_height = "wrap_content"
+              android:hint          = "Password" 
+              android:inputType     = "textPassword"/>
+              
+    <RelativeLayout android:layout_width="fill_parent" android:id="@+id/relativeLayout1" android:layout_height="wrap_content">   
+        <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentBottom="true"  android:layout_alignParentRight="true" android:text="Activate" android:id="@+id/btn_get_activate"></Button>        
+        <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentBottom="true" android:id="@+id/btn_login_activate"  android:text="Login" android:layout_alignParentLeft="true"></Button>
+        <TextView android:layout_toLeftOf="@+id/btn_get_activate" android:layout_toRightOf="@+id/btn_login_activate" android:gravity="center_vertical" android:textSize="16dp" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentBottom="true" android:layout_centerInParent="true" android:id="@+id/txt_get_result"></TextView>
+    </RelativeLayout>
+</LinearLayout>

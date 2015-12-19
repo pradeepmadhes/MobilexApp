@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 2.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : DOMESTIC VIOLENCE.
+Sec. 3.
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.
+Sec. 4 - 11.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV : PROCEDURE FOR OBTAINING ORDERS OF RELIEFS.
+Sec. 12 - 29.
+</content>
+</part>
+
+<part id="5" sno="5">
+<content>CHAPTER V : MISCELLANEOUS.
+Sec. 30 - 37.
+</content>
+</part>
+</acts>

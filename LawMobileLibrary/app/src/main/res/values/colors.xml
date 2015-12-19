@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="dim_gray">#696969</color>
+    
+    <color name="font_primary">#002277</color>
+    <color name="font_secondary">#000000</color>    
+    <color name="font_dialog_primary">#ffffff</color>
+    <color name="font_dialog_secondary">#000000</color>
+    <color name="font_header">#002277</color>  
+    <color name="font_button">#ffffff</color>    
+    <color name="font_tab_selected">#ffffff</color>
+    <color name="font_tab_unselected">#231f1f</color>  
+    
+    <color name="background_primary">#ffffff</color>
+    <color name="background_secondary">#ffffff</color>    
+    <color name="background_listview_odd">#ffffff</color>
+    <color name="background_listview_even">#f0f0f0</color>
+    <color name="background_top_bar">#002277</color>  
+    <color name="background_tab_selected">#004a87</color>
+    <color name="background_tab_unselected">#2e75b0</color>   
+    
+    <color name="button_focus">#195d95</color>
+    <color name="button_normal">#002277</color>
+    <color name="button_press">#FA58F4</color>
+    
+</resources>

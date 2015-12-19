@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>CHAPTER I : PRELIMINARY.
+Sec. 1 - 4.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>CHAPTER II : INTESTATE SUCCESSION.
+Sec. 5 - 29.
+General.
+Sec. 5 - 17.
+General provisions relating - succession.
+Sec. 18 - 28.
+Escheat.
+Sec. 29
+</content>
+</part>
+
+<part id="3" sno="3">
+<content>CHAPTER III : TESTAMENTARY SUCCESSION.
+Sec. 30.
+</content>
+</part>
+
+<part id="4" sno="4">
+<content>CHAPTER IV : REPEALS.
+Sec. 31.
+</content>
+</part>
+</acts>

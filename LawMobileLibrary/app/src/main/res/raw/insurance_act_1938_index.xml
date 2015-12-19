@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<acts>
+<part id="1" sno="1">
+<content>PART I: PARAMILITARY.
+Sec. 1 - 2B.
+</content>
+</part>
+
+<part id="2" sno="2">
+<content>PART II : PROVISIONS APPLICABLE TO INSURERS
+Sec. 2C - 64.
+</content>
+</part>
+
+<part id="2A" sno="3">
+<content>PART IIA : INSURANCE ASSOCIATION OF INDIA, COUNCILS OF THE ASSOCIATION AND COMMITTEES THEREOF.
+Sec. 64A - 64T.
+</content>
+</part>
+
+<part id="2B" sno="4">
+<content>PART IIB : TARIFF ADVISORY COMMITTEE AND CONTROL OF TARIFF RATES
+Sec. 64U - 64UM.
+</content>
+</part>
+
+<part id="2C" sno="5">
+<content>PART IIC : SOLVENCY MAEGIN, ADVANCE PAYMENT OF PREMIUM AND RESTRICTIONS ON THE OPENING OF A NEW PLACE OF BUSINESS.
+Sec. 64V - 64VC.
+</content>
+</part>
+
+<part id="3" sno="6">
+<content>PART III : PROVIDENT SOCIETIES.
+Sec. 65 - 94.
+</content>
+</part>
+
+<part id="3A" sno="7">
+<content>PART IIIA : INSURANCE CO-OPERATIVE SOCIETIES.
+Sec. 94A.
+</content>
+</part>
+
+<part id="4" sno="8">
+<content>PART IV : MUTUAL INSURANCE COMPANIES AND CO-OPERATIVE LIFE INSURANCE SOCIETIES.
+Sec. 95 - 101.
+</content>
+</part>
+
+<part id="4A" sno="9">
+<content>PART IVA : RE-INSURANCE .
+Sec. 101A - 101C.
+</content>
+</part>
+
+<part id="5" sno="10">
+<content>PART V : MISCELLANEOUS.
+Sec. 102 - 123.
+</content>
+</part>
+</acts>
